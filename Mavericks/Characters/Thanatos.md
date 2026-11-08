@@ -2,7 +2,7 @@
 
 **Origin:**
 - **4880 5A:** Eadred was born as the heir of the county of Somerstark in the Aerdwish colonial holding of Caerwedd (modern day Valkirk Republic).
-- **4900 5A:** Eadred Somerstark grew up to be a noble paladin lord of Kai-den.
+- **4900 5A:** Eadred Somerstark grew up to be a noble paladin lord of Kaï-den.
 - **4901 5A:** Eadred was needed to continuously lead expeditions to put down rebellions and defeat monsters. He formed a company of close companions across his adventures. Among them was the adventuring elf cleric of Kaï-den [[Mysellia Ama'tae|Mysellia of House Ama'tae]]. Maeryn schemed at home, both to strengthen Somerstark, but also her own powerbase.
 - **4902 5A:** With rebellious elements growing more disruptive to Aerdwish imperial rule, Eadred was forced into political marriage to secure military aid and economic resources for Somerstark. His partner was Maeryn of Duncarl, a beautiful, cunning, and ambitious woman. Neither she and Eadred held any affection for each other. She found him too naive and simple minded. He thought of her as a devious snake. Nonetheless, the two had agreed to work together for their mutual goals. However, Eadred never became intimate with her, and the lack of an heir became a point of concern, and an insult to Maeryn.
 - **4903 5A:** Eadred and Mysellia both realised they had fallen in love with each other, however they refused to do anything due to Eadred's marriage.
@@ -13,7 +13,7 @@
 - **4908 5A:** Maeryn's continuing unscrupulous plotting drove Eadred away from her more and more. Meanwhile, the time he spent with Mysellia adventuring around his realm increased, as did their closeness. Rumours of an illicit affair between them soon spread.
 - Danfric's advice to Eadred was to follow his heart, teaching him that if he was powerful enough, he would not need the alliance that Maeryn brought. Meanwhile, Karellia subtly encouraged Maeryn's suspicions of her husband's infidelity, and advised her on taking steps at consolidating her own powerbase.
 - **4909 5A:** Eadred and Mysellia finally admitted their love for each other after another harrowing adventure. With his relationship with his wife deteriorating further and further, Eadred resolved to divorce Maeryn.
-- **4910 5A:** Eadred reached out to the Kaidenite church to divorce Maeryn, but the bishop refused. The bishop was a cousin of Maeryn's family, and was on her side.
+- **4910 5A:** Eadred reached out to the Kaïdenite church to divorce Maeryn, but the bishop refused. The bishop was a cousin of Maeryn's family, and was on her side.
 - **4911 5A:** Eadred and Mysellia met with the Ama'tae family to gain their blessing on their courtship and support in overturning the bishop's decree. However, the Ama'tae matriarch was conservative, and denied the couple. She also intended an arranged political marriage for Mysellia. Mysellia was particularly hurt by her cousin's refusal of support, the heir of the family Azariah.
 - **4912 5A:** Eadred and Mysellia continued their courtship with each other in secret, but kept it chaste as both of them did not wish to compromise Eadred's honour and integrity any further.
 - **4913 5A:** The threats to Caerwedd grew more numerous and more frequent. Eadred and Mysellia sought out aid from neighbouring Solonaith, but House Ama'tae was instrumental in blocking any aid unless Mysellia ceased her relationship with Eadred. Mysellia refused.
