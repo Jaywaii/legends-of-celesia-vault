@@ -1,0 +1,1 @@
+During the 3rd Age, the Exalted Tyrant developed a way to distill demons into an essence they could infuse into mortals. A single demon's essence could give birth to a hundred 
