@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Conflicts/Fiend Soul War.md",
+                "file": "Mavericks/Mavericks Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiend Soul War"
+              "title": "Mavericks Timeline"
             }
           }
         ]
@@ -174,6 +174,7 @@
   },
   "active": "5670e98f41140955",
   "lastOpenFiles": [
+    "Lore/Conflicts/Fiend Soul War.md",
     "Mavericks/Mavericks Timeline.md",
     "Lore/Organisations/Order of the Black Flame.md",
     "Lore/Organisations",
