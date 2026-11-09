@@ -187,7 +187,7 @@ Kyle is born to Marek and Terra Windswood as their eldest child in the Valkirk R
 
 [[Jacqueline deLouvin|Jacqueline]] is found as a newborn on the doorstep of the poor Coeur-d'Espoir orphanage in the city of Louvin. Jacqueline grows up mostly on the streets, stealing whatever she could to survive and support her fellow orphans.
 
-[[Klash]] is born to a male orc blacksmith and a female human mercenary warrior in a village in the Valendar Wilds.
+[[Klashi'ra]] is born to a male orc blacksmith and a female human mercenary warrior in a village in the Valendar Wilds.
 
 # 5118 5A
 Yinhun rescued Melisande, but the crimes he committed in doing so forced King Abrihm to exile him.
@@ -202,7 +202,7 @@ Rolonsa's little sister Nahiti is born.
 Jebedioh begins studying his family's alchemical arts at a very young age. While he isn't the most exceptional student, Jebedioh pushes himself the hardest, and is even more willing to push the boundaries of experimentation, even by gnomish standards.
 
 # 5121 5A
-The Shinkiba's Raiders pillage Klash's home, killing her parents. Shinkiba enslaves the surviving children. Impressed by her strength and ferocity at such a young age, the Raiders raise the child as a gladiator-slave, renaming her as Klash. The training is brutal, but Klash endures it all. Much of her education is martial in nature; the Raiders teach her only the bare minimum of language just so that she can understand their orders, and she remains unable to read.
+The Shinkiba's Raiders pillage Klashi'ra's home, killing her parents. Shinkiba enslaves the surviving children. Impressed by her strength and ferocity at such a young age, the Raiders raise the child as a gladiator-slave, renaming her as Klashi'ra. The training is brutal, but Klashi'ra endures it all. Much of her education is martial in nature; the Raiders teach her only the bare minimum of language just so that she can understand their orders, and she remains unable to read.
 
 # 5122 5A
 Terra Windswood died giving birth to Kyle's younger sister Sera due to an old wound. Marek fell into depression and became an alcoholic. While he was never abusive, he neglected his children, and became unable to hold a job to provide for his family. At just five years old, Kyle became responsible for raising his sister and himself. Fortunately, Terra's old loyal attendant from her army days and now her midwife, Fiona, was able to use her meager resources to help a bit. Kyle grew up scrounging and fighting for every bit of scrap so his family didn't starve. He became ashamed of his father's behavior, but also fought anyone who spoke ill of him or his family.
@@ -222,7 +222,7 @@ Jebedioh was encouraged to travel to the royal capital of Whismerlund (Whistarka
 Thanatos offered the Black Flames assistance to Emperor Xaos' expansionist ambitions. Under Thanatos' influence, Karse is one of several means for the Emperor to use.
 
 # 5125 5A
-Klash, at the age of 8, kills her first living creature, an attack dog, as part of her training.
+Klashi'ra, at the age of 8, kills her first living creature, an attack dog, as part of her training.
 
 # 5126 5A
 Nine-year old Kyle learns of a big score through rumours. A large amount of gold was going to pass through his hometown via a Crown Consortium merchant group. If he could just grab a handful of that loot, it would provide for his family for years. However, the loot was part of a greater plot, and security was extraordinarily high. Kyle got captured and tortured, with the Crown thugs thinking he was working for their enemies. Kyle kept his mouth shut so that his family would not be targeted, but the Consortium was going to use magic to extract his mind. However, before he was going to be killed, the Greenleaf Company attacked the Consortium base, having followed the trail of their atrocities.
@@ -244,13 +244,13 @@ Yinhun is believed to be killed in battle against Thanatos. The GC halted a magi
 # 5127 5A
 Rolonsa proves to be strong as a boy, displaying great potential in martial skills to his teachers and living up to the ideals of the Paladin's Virtues. He is selected to squire under the paladin and knight of the realm Dame Elicia Merwyn, mother of Theodric.
 
-Klash, at the age of 10, kills her first person, another gladiator-slave trainee (a human boy) as part of her training. While the act does not guilt her (they had no choice, either the boy kills her or the SR kills them both), Klash immediately understands how pointless and cruel the act was. Nonetheless, she knows that he was only the first, and that she needs to do whatever she could to survive.
+Klashi'ra, at the age of 10, kills her first person, another gladiator-slave trainee (a human boy) as part of her training. While the act does not guilt her (they had no choice, either the boy kills her or the SR kills them both), Klashi'ra immediately understands how pointless and cruel the act was. Nonetheless, she knows that he was only the first, and that she needs to do whatever she could to survive.
 
 # 5130 5A
 At the age of 13, Jacqueline falls in love with fellow orphan Katrine, a human girl. Together, they form and lead the Velvet Hands, a gang of thieves composed of their fellow orphans, targeting the wealthy of Louvin for the next couple of years.
 
 # 5131 5A
-Klash, at the age of 14, officially joins the gladiator-slave ring. Throughout the year, she would win fight after fight, earning her owners a good amount of profit.
+Klashi'ra, at the age of 14, officially joins the gladiator-slave ring. Throughout the year, she would win fight after fight, earning her owners a good amount of profit.
 
 # 5132 5A
 Thanatos sent Zeia to Wyrstadt to embed herself into its nobility.
@@ -285,9 +285,9 @@ One night, both Jacqueline and Baroth get tipsy from the ale they stole. Jacquel
 
 # 5134 5A
 ## Kaïshan
-In a failed raid on a CC caravan, Baroth is captured by Shinkiba's Raiders, a band of mercenaries that raid for loot and slaves secretly employed by the CC. Jacqueline manages to evade capture, and stealthily follows the SR. The SR run an underground gladiator slave ring, and force Baroth to participate. Baroth fights against the urokhan Klash multiple times, and they earn each other's respect. Jacqueline joins their growing friendship by sneaking in food and supplies for their wounds. Jacqueline figures out how to help them escape their magical bondage, but she cannot do it on her own. Shinkiba the ogre mage has too many protections guarding her.
+In a failed raid on a CC caravan, Baroth is captured by Shinkiba's Raiders, a band of mercenaries that raid for loot and slaves secretly employed by the CC. Jacqueline manages to evade capture, and stealthily follows the SR. The SR run an underground gladiator slave ring, and force Baroth to participate. Baroth fights against the urokhan Klashi'ra multiple times, and they earn each other's respect. Jacqueline joins their growing friendship by sneaking in food and supplies for their wounds. Jacqueline figures out how to help them escape their magical bondage, but she cannot do it on her own. Shinkiba the ogre mage has too many protections guarding her.
 
-Baroth and Klash have a very deadly gladiatorial match that nearly kills them, surviving only by some very desperate actions both of them did to save each other. That night, hidden away from the guards (who were celebrating their new gains), and their wounds tended to by Jacqueline, Baroth, Klash, and Jacqueline are overwhelmed with adrenaline and the fear of their lives. The three of them together engage in a night of intimacy and comfort, cementing their bond together.
+Baroth and Klashi'ra have a very deadly gladiatorial match that nearly kills them, surviving only by some very desperate actions both of them did to save each other. That night, hidden away from the guards (who were celebrating their new gains), and their wounds tended to by Jacqueline, Baroth, Klashi'ra, and Jacqueline are overwhelmed with adrenaline and the fear of their lives. The three of them together engage in a night of intimacy and comfort, cementing their bond together.
 
 ## Firhan
 Jebedioh arrived in Solaris, and initially gained access to the Royal Alchemist Guild. After learning all that he could, Jebedioh tried stealing the ingredients he needed. However, he was caught this time, and was placed in jail. Little did he know, the Coil had set up a trap for him. Jebedioh came to their attention when they learned of his tonic interfering with their experiment. However, instead of killing him, the Coil agent in Solaris, Court Count Danath of House Kendeleth (Steward to King Abrihm and also secret Zhaokhanite), sought to use his alchemical expertise to break through the defences surrounding the Crown of Tyranny. While formidable, the ancient defences did not take into account advancements in the field of alchemy.
