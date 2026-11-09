@@ -21,47 +21,47 @@ Azariah Ama'tae was born.
 The Crown of Tyranny came into the guardianship of the church of Kaï-den in Solaris, long before the city became the capital of Hynaeria. It lied in the old catacombs of the ruined cathedral upon which the royal palace was now built upon, forgotten during the upheaval of the Aerdwish conquest of the land and the following Luskarn revolution.
 
 # 4924 5A
-Newly-raised death knight Thanatos assumed leadership of the Order of the Black Flame. The former paladin's strong leadership was what was needed to refocus the Order's efforts to resurrect the Exalted Tyrant. Over the next several decades, Thanatos would gain enough clues to track down the locations of each relic. He also closely observed the Ama'tae family line, thanks to his mistress Mysellia's connections.
+Newly-raised death knight [[Thanatos]] assumed leadership of the Order of the Black Flame. The former paladin's strong leadership was what was needed to refocus the Order's efforts to resurrect the Exalted Tyrant. Over the next several decades, Thanatos would gain enough clues to track down the locations of each relic. He also closely observed the Ama'tae family line, thanks to his mistress [[Mysellia Ama'tae|Mysellia]]'s connections.
 
 # 4956 5A
-Mira Greenleaf was born.
+[[Mira Greenleaf]] was born.
 
 # 4958 5A
 Azariah Ama'tae assumed the position of matriarch of the Ama'tae family at the age of 153. The Ama'tae clan had a long history, experiencing many ups and downs; Azariah single handedly brought the family back to peak prominence through sheer stubborn hard work. She now sat atop a powerful merchant empire and on the ruling council of Solonaith. The hardships she went through forged her into a strong, stubborn, but extremely intelligent and politically adept woman who knew how to get what she wants, and would not take no for an answer.
 
 # 4995 5A
-Malistria was born as the 2nd child and 2nd daughter to House Lysenthiir.
+[[Malistria Lysenthiir|Malistria]] was born as the 2nd child and 2nd daughter to House Lysenthiir.
 
 # 5021 5A
 The Tome of Hate was secreted to the undercroft vault of the Grand Library of Wyrstatd by the Argent Rose. 
 
 # 5045 5A
-Leinco was born to Ellessia Arialune, Princess of Coraithess, and Daeroleth Kethrym, a disgraced knight of the kingdom. Leinco’s parents grew up together on Coraithess, and Daeroleth became Ellessia’s personal knight, then betrothed. The two loved each other, and Daeroleth supported Ellessia’s adventures. However, Daeroleth had grown fanatically loyal to the royal family and the elven ideals they represented. In his service, he had secretly committed many atrocities against enemies of the crown without the royal family’s knowledge or approval. When his actions were uncovered, Ellessia became horrified by him. The betrothal was broken and Daeroleth was exiled from Coraithess, but not before Ellessia had become pregnant with his child, though the conception was so recent that no one knew at the time. When Ellessia did realise she was pregnant, she kept it a secret from even her family. She was unwilling to abort the child, but neither could she have the child of a criminal as a prince. With the aid of her youngest brother Illystiel, she traveled in secret to a hidden location on Asteropa to give birth under her adventurer’s identity. She entrusted the child to a childless elf couple, former adventuring companions who retired to start a farm. The couple swore to keep the child's identity a secret, never to reveal it to others and not even to him. Ellessia was determined to never see the child again, with only Illystiel knowing the whole truth.
+[[Leinco Vagabond|Leinco]] was born to Ellessia Arialune, Princess of Coraithess, and Daeroleth Kethrym, a disgraced knight of the kingdom. Leinco’s parents grew up together on Coraithess, and Daeroleth became Ellessia’s personal knight, then betrothed. The two loved each other, and Daeroleth supported Ellessia’s adventures. However, Daeroleth had grown fanatically loyal to the royal family and the elven ideals they represented. In his service, he had secretly committed many atrocities against enemies of the crown without the royal family’s knowledge or approval. When his actions were uncovered, Ellessia became horrified by him. The betrothal was broken and Daeroleth was exiled from Coraithess, but not before Ellessia had become pregnant with his child, though the conception was so recent that no one knew at the time. When Ellessia did realise she was pregnant, she kept it a secret from even her family. She was unwilling to abort the child, but neither could she have the child of a criminal as a prince. With the aid of her youngest brother Illystiel, she traveled in secret to a hidden location on Asteropa to give birth under her adventurer’s identity. She entrusted the child to a childless elf couple, former adventuring companions who retired to start a farm. The couple swore to keep the child's identity a secret, never to reveal it to others and not even to him. Ellessia was determined to never see the child again, with only Illystiel knowing the whole truth.
 
 # 5050 5A
 Leinco was raised as a farmboy by his adoptive parents. Although they loved the child as their own, they were worried about signs that Leinco possessed a natural and powerful potential for the psychic and martial arts. However, they were unable to do anything about it as the farm was attacked by a swarm of monsters. Leinco's adoptive parents fought well, but they were overwhelmed. Leinco, too, fought desperately, but would have been killed as well if not for the timely arrival of the [[Valdemar Vagabonds]] who were hired by the region's powers to fight against the horde. The current captain of the Vagabonds, Vallon, witnessed Leinco's last stand, and was so impressed by this small child's display of defiance that he took in Leinco. For the next four decades, he raised him as his own son. He trained him in the Vagabonds' ways, instilling in him their strict, religious-like mercenary code. Even though he was still technically an elf adolescent, Leinco developed his psychic and martial arts. He became the Tigers’ deadliest fighter, with more room to grow. Vallon was strict in his training, and although he was proud of Leinco, never showed him any outward affection. This upbringing, and with all the killing he participated in, hardened Leinco emotionally, and he grew callous to the feelings of others. However, he nonetheless developed a strong bond with his company, especially Vallon, even if there were no outward expressions of feelings involved.
 
 # 5051 5A
-Jannilus was born in Suldeinor into a family of simple farmers (Ephalia and Celerus of Lerucian village) as their only child. 
+[[Jannilus]] was born in Suldeinor into a family of simple farmers (Ephalia and Celerus of Lerucian village) as their only child. 
 
-Sinnara was born as the youngest daughter to Matriarch Ilvryssea of House Lysenthiir in the Deep Hollows dark elf city of Belzorathyr (under Valendar).
+[[Sinnara Lysenthiir|Sinnara]] was born as the youngest daughter to Matriarch Ilvryssea of House Lysenthiir in the Deep Hollows dark elf city of Belzorathyr (under Valendar).
 
 # 5054 5A
 Abrihm Luskarn was born.
 
 # 5057 5A
-Cyrussilar was born to Andellar and Eversil Ari'luth as their only child.
+[[Cyrussilar Ari'luth|Cyrussilar]] was born to Andellar and Eversil Ari'luth as their only child.
 
 # 5059 5A
-Loreilana wa born to Fanalorn and Tomilyth as their only child, on the continent of Daiqin. Fanalorn was the patriarch of the Amerlyth martial clan, and Loreilana was his heir. Although all members of the clan learned the Amerlyth school of martial arts, only Loreilana would learn all of its secrets. One such secret was how the Amerlyth passed down the knowledge to their heir. Through secret rituals, the Amerlyth secret arts were planted and locked away into Loreilana's mind. She would be unable to access any of that knowledge until she attained certain stages of physical and mental proficiencies that would require decades, if not centuries, of training.
+[[Loreilana Amerlyth|Loreilana]] wa born to Fanalorn and Tomilyth as their only child, on the continent of Daiqin. Fanalorn was the patriarch of the Amerlyth martial clan, and Loreilana was his heir. Although all members of the clan learned the Amerlyth school of martial arts, only Loreilana would learn all of its secrets. One such secret was how the Amerlyth passed down the knowledge to their heir. Through secret rituals, the Amerlyth secret arts were planted and locked away into Loreilana's mind. She would be unable to access any of that knowledge until she attained certain stages of physical and mental proficiencies that would require decades, if not centuries, of training.
 
 Fanalorn and Tomilyth traveled widely across the world before settling and assuming the leadership of the clan. In doing so, they met a young Mira Greenleaf, and befriended her. They brought her on many adventures, taught her many fighting techniques, before parting ways as the couple returned home. Fanalorn in particular brought new ideas that stirred up controversy among the generally conservative elf martial world. However, Fanalorn and Tomilyth were very persuasive, and were respected masters, so many listened to them. It was only when Fanalorn suggested they exchange techniques with non-elf martial sects that the Amerlyth clan was targeted for destruction. Clan Kirthendil led the coalition against Amerlyth, joining the Twilight Houses as a result.
 
 # 5060 5A
-Sylvanna was born to Azariah and Lorendal Ama'tae in Solonaith. She was their sixth child. It was obvious early on that she was born with physical charm and beauty exceptional even among elves.
+[[Sylvanna Ama'tae|Sylvanna]] was born to Azariah and Lorendal Ama'tae in Solonaith. She was their sixth child. It was obvious early on that she was born with physical charm and beauty exceptional even among elves.
 
 # 5061 5A
-Karse was born as an orphan in the Valkirk Republic, his parents killed by corrupt officials.
+[[Karse kar Dasturm|Karse]] was born as an orphan in the Valkirk Republic, his parents killed by corrupt officials.
 
 Sinnara began her education to become a priestess of the Nightsinger. She also displayed great talent in emotional insight and manipulation, marking her as a natural spy. She was thus trained in spycraft in addition to her priestly studies.
 
@@ -106,10 +106,10 @@ Valiar was born to Abrihm and Lemara.
 Thanatos made his presence known to Karse. The undead knight offered him a path to power, and Karse accepted. 
 
 # 5089 5A
-Jebedioh was born to Clan Nacklenum in the village of Gleamstadle, an independent settlement in the Valendar Wilds. His mother was Debbalinea and his father was Flockinero.
+[[Jebedioh Nacklenum|Jebedioh]] was born to Clan Nacklenum in the village of Gleamstadle, an independent settlement in the Valendar Wilds. His mother was Debbalinea and his father was Flockinero.
 
 # 5090 5A
-Rogarth Strikinghammer, patriarch of the clan, is tricked by the Crown Consortium. The CC's newest association member, the duerghendar clan Ulgendarth, infiltrated Thunderstrike Hall as a result of the bad deal, and conducted a violent takeover, killing Rogard. The surviving clan members are enslaved, and imprisoned forever within the Hall. In addition to plundering the mines of Thunderstrike, the CC used the Hall as a secret prison for their enemies. The heirs of Rogard are all killed, but his wife Hartha survives when her handmaiden volunteers to pretend to be her, and dies in her place. Hartha is pregnant with Baroth at this time.
+Rogarth Strikinghammer, patriarch of the clan, is tricked by the Crown Consortium. The CC's newest association member, the duerghendar clan Ulgendarth, infiltrated Thunderstrike Hall as a result of the bad deal, and conducted a violent takeover, killing Rogard. The surviving clan members are enslaved, and imprisoned forever within the Hall. In addition to plundering the mines of Thunderstrike, the CC used the Hall as a secret prison for their enemies. The heirs of Rogard are all killed, but his wife Hartha survives when her handmaiden volunteers to pretend to be her, and dies in her place. Hartha is pregnant with [[Baroth Strikinghammer|Baroth]] at this time.
 
 On one job, the Tigers are betrayed by their employers that left them hunted and depleted in resources. The company comes into the employ of Saeleron Lamilryth. Saeleron is the heir of his house, and a member of the Houses of Twilight. He needs some disposable fighters that no one would miss, so he employs the Tigers. However, thanks to Leinco, the Tigers succeed in their jobs, and Saeleron begins to pay close attention to this young elf prodigy. Secretly, Saeleron is offended that such an elf was working as a merc among non-elves. However, the more he looks into Leinco, he is surprised that this boy might be a member of the royal family.
 
@@ -128,7 +128,7 @@ During the first few months of captivity, while Cyrus still had his own mind, he
 # 5110 5A
 Sylvanna begins studying at the St. Ilythrasil Academy for the scions of Solonaith's aristocracy. She naturally excels at all of her artistic classes, but also of her intellectual courses. The only area where she struggles is in her physical classes. While she is a talented fencer, she simply does not have the endurance to do well.
 
-Sylvanna easily becomes the most popular student at the school. She gains a large following, many admirers, and a close circle of true friends (the bookish Nuali Miralei and the boisterous Prisspira Kellenis). She also gains a rivalry with the second more influential student at the Academy, Anauria Fillien (and her own circle).
+Sylvanna easily becomes the most popular student at the school. She gains a large following, many admirers, and a close circle of true friends (the bookish [[Nuali Miralei]] and the boisterous [[Prisspira Kellenis]]). She also gains a rivalry with the second more influential student at the Academy, [[Anauria Fillien]] (and her own circle).
 
 Nuali Miralei: House Miralei is a branch of House Ama'tae, and had always held a close relationship with them. They have a tradition of their members serving as close aides to the members of their senior house. Nuali was a few years younger than Sylvanna, and grew up at her side. Her parents groomed her to be Sylvanna's primary aide, but Sylvanna always treated her more as her best friend than assistant. Nuali was forever grateful for Sylvanna's friendship, but that only fueled her dedication to perfecting her expected duties.
 
@@ -136,7 +136,7 @@ Prisspira Kellenis: Prisspira is the first heir of the newly elevated House Kell
 
 Anauria Fillien: Anauria was the heir to her house which was already a rival clan to House Ama'tae (on the council of Solonaith as well). She was beautiful and very talented, well-rounded in nearly every field. She easily became the second most popular student at the Academy. Her jealousy of Sylvanna stems from the fact that Sylvanna proved superior to her in certain fields she considered her domain, and her greater popularity despite the fact she was a sixth child and was inferior to her in other fields (mainly the physical).
 
-Kethrendil Symbaeryn: Kethrendil was the most popular male bachelor of Sylvanna's generation. While not the heir of his family's fortunes, Kethrendil was a rising star, excelling in arms and studies. He was extremely charismatic, and a natural leader. Both Sylvanna and Anauria had an interest in him which fueled their rivalry with each other. Kethrendil, for his part, was gentlemanly with each, and officially remained non committed to either, but he was more intrigued with Sylvanna.
+[[Kethrendil Symbaeryn]]: Kethrendil was the most popular male bachelor of Sylvanna's generation. While not the heir of his family's fortunes, Kethrendil was a rising star, excelling in arms and studies. He was extremely charismatic, and a natural leader. Both Sylvanna and Anauria had an interest in him which fueled their rivalry with each other. Kethrendil, for his part, was gentlemanly with each, and officially remained non committed to either, but he was more intrigued with Sylvanna.
 
 # 5111 5A
 Andellar and Eversil discover that the body left behind by the Lysenthiir's attack was not Cyrus, and that their son is actually alive. The Greenleaf Company devote all their time searching for him, but the Lysenthiir continuously move their location and erect obstacles in their way.
@@ -168,31 +168,31 @@ The GC heal Jannilus, and recover Loreilana's guardian and lay him to rest. They
 Jannilus accepts to continue his tutelage under the GC's wizard, the gnome Belladella Bopplecrum. Although their attitudes are completely different and Jannilus would often express annoyance and frustration from the gnome's merry nature, he recognizes and respects her power, and accepts learning from her.
 
 # 5116 5A
-Zeia was born to Karse.
+[[Zeia kar Dasturm|Zeia]] was born to Karse.
 
-Kain was born on Tierlan 2nd to Mira and Yinhun in Feywood.
+[[Kain Gallant|Kain]] was born on Tierlan 2nd to Mira and [[Yinhun the Gallant|Yinhun]] in Feywood.
 
 Cyrus shows the first signs of emerging from his vegetative melancholy when a baby Kain crawls up to him with joy and innocence in his eyes. Over time, the half-elf's exuberance and drive infects Cyrus that he gradually opened up, although he retains a very cool demeanour and control on his emotions. 
 
-In Feywood, Loreilana first gets to know Cyrus, then helps raise Kain, followed by Kyle years later. Because of her natural compassion and the sense of responsibility taught to her, Loreilana became the mother of the group of friends. However, she is not above having fun joining them on their misadventures. She is still young and full of energy and curiosity. She justifies her participation in their antics by being the one to pull them back when they go too far, and for the most part, this is true.
+In Feywood, Loreilana first gets to know Cyrus, then helps raise Kain, followed by [[Kyle Windswood|Kyle]] years later. Because of her natural compassion and the sense of responsibility taught to her, Loreilana became the mother of the group of friends. However, she is not above having fun joining them on their misadventures. She is still young and full of energy and curiosity. She justifies her participation in their antics by being the one to pull them back when they go too far, and for the most part, this is true.
 
 # 5117 5A
-Melisande Luskarn is born to 1st Prince Valiar and Mishara. She was their 2nd child, after her older brother Perinolde.
+[[Melisande Luskarn]] is born to 1st Prince Valiar and Mishara. She was their 2nd child, after her older brother Perinolde.
 
 Kyle is born to Marek and Terra Windswood as their eldest child in the Valkirk Republic. Both parents were retired soldiers, and Marek had developed his own sword style. 
 
-Rolonsa is born to Maati and Dalwani of House Khalisan, a border barony of Hynaeria. Rolonsa is the first son and eldest child of the family. He would have a younger sister, Nahiti, born two years after him.
+[[Rolonsa Khalisan|Rolonsa]] is born to Maati and Dalwani of House Khalisan, a border barony of Hynaeria. Rolonsa is the first son and eldest child of the family. He would have a younger sister, Nahiti, born two years after him.
 
-Aransi is born to Faarsa and Timara Daravu. The Daravu family is a minor branch of the Khalisan family with no status of nobility, but have traditionally served as priests of Kaï-den for many generations.
+[[Aransi Daravu|Aransi]] is born to Faarsa and Timara Daravu. The Daravu family is a minor branch of the Khalisan family with no status of nobility, but have traditionally served as priests of Kaï-den for many generations.
 
-Jacqueline is found as a newborn on the doorstep of the poor Coeur-d'Espoir orphanage in the city of Louvin. Jacqueline grows up mostly on the streets, stealing whatever she could to survive and support her fellow orphans.
+[[Jacqueline deLouvin|Jacqueline]] is found as a newborn on the doorstep of the poor Coeur-d'Espoir orphanage in the city of Louvin. Jacqueline grows up mostly on the streets, stealing whatever she could to survive and support her fellow orphans.
 
-Klash is born to a male orc blacksmith and a female human mercenary warrior in a village in the Valendar Wilds.
+[[Klash]] is born to a male orc blacksmith and a female human mercenary warrior in a village in the Valendar Wilds.
 
 # 5118 5A
 Yinhun rescued Melisande, but the crimes he committed in doing so forced King Abrihm to exile him.
 
-Thelaris was born to a family of caravan traders.
+[[Thelaris of Braithorn|Thelaris]] was born to a family of caravan traders.
 
 # 5119 5A
 Thelaris' family is travelling through the Forest of Braithorn when they are ambushed and killed by monsters. The Circle of Braithorn intervenes too late, only in time to rescue Thelaris as a baby. With no other family to turn to, the Circle raises them as one of their own. Thelaris would come to consider the Circle as their family. They are closest to Elder Almera. They have a happy childhood learning the druidic ways, surrounded by friends they consider family, being the youngest of the Circle. 
