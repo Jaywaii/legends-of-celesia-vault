@@ -1,0 +1,3 @@
+The feud between the House Ari'luth and House Lysenthiir dates back to the Fourth Age. House Ari'luth were knights of the elf city-state of Mystariel. As one of the main defenders of the city and her ruling family, House Ari'luth confronted many threats, one of which was House Lysenthiir of the Deep city of Belzorathyr. Mystariel was providing support to their Deep Hollows allies against the expansion and machinations of the Belzorathyri dark elves. House Lysenthiir was the leading instigator of these plots.
+
+Members of House Ari'luth, on missions down into the Deep Hollows to help dwarf and gnome allies, routinely fought against House Lysenthiir agents, some of whom were part of the main family.
