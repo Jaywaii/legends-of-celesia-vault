@@ -9,10 +9,10 @@ worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/c/deiti
 
 - [[Deities of Celesia]]
 - [[The Deathless Shroud]]
-- [[The Exalted Tyrant (World Anvil)|The Exalted Tyrant]]
+- [[The Exalted Tyrant|The Exalted Tyrant]]
 - [[The Greenheart]]
 - [[The Hearthkeeper]]
-- [[The Lightbringer (World Anvil)|The Lightbringer]]
+- [[The Lightbringer|The Lightbringer]]
 - [[The Marvelous Maker]]
 - [[The Moonseer]]
 - [[The Pale Judge]]

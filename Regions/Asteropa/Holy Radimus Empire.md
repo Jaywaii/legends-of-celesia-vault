@@ -13,7 +13,7 @@ worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/holy-
 **Religion:**
 
 - *Common:* [[Saint Radimus]]
-- *Uncommon:* [[The Lightbringer (World Anvil)|The Lightbringer]], [[The Ardent Sentinel]]
+- *Uncommon:* [[The Lightbringer|The Lightbringer]], [[The Ardent Sentinel]]
 
 **Population:**
 

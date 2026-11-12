@@ -23,7 +23,7 @@ worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-l
 **Religion:**
 
 - *Common:* [[The Marvelous Maker]], [[The Peerless Champion]], [[The Golden Magnate]], [[The Hearthkeeper]].
-- *Uncommon:* [[The Beguiling Light]], [[The Swift Strider]], [[The Lightbringer (World Anvil)|The Lightbringer]], [[The Nightsinger]], [[The Bold Fortune]], [[The Cerulean Monarch]], [[The Exalted Tyrant (World Anvil)|The Exalted Tyrant]].
+- *Uncommon:* [[The Beguiling Light]], [[The Swift Strider]], [[The Lightbringer|The Lightbringer]], [[The Nightsinger]], [[The Bold Fortune]], [[The Cerulean Monarch]], [[The Exalted Tyrant|The Exalted Tyrant]].
 - *Rare:* [[The Hallowed Martyr]], [[The Bloodsinger]], [[The Warden of Agony]], [[The Sage Supreme]], [[The Greenheart]], [[The Blazing Liberator]], [[The Pale Judge]], [[The Divine Virtuoso]], [[The Sublime Trickster]], [[The Ardent Sentinel]].
 
 **Population:**

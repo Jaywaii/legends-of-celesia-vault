@@ -16,7 +16,7 @@ While there exists in almost every region a local deity or two, the gods that ar
 
 ## Greater Deity
 
-[[The Lightbringer (World Anvil)|The Lightbringer]]—God of the Courage, Healing, Justice, and the Sun; known as *Kaï-den*.
+[[The Lightbringer|The Lightbringer]]—God of the Courage, Healing, Justice, and the Sun; known as *Kaï-den*.
 
 ## Intermediate Deities
 
@@ -72,7 +72,7 @@ While there exists in almost every region a local deity or two, the gods that ar
 
 ## Greater Deity
 
-[[The Exalted Tyrant (World Anvil)|The Exalted Tyrant]]—God of Fear, Power, and Strife; known as *Zhao-Khan*.
+[[The Exalted Tyrant|The Exalted Tyrant]]—God of Fear, Power, and Strife; known as *Zhao-Khan*.
 
 ## Intermediate Deities
 
