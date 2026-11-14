@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manuscripts/Manuscript.md",
+                "file": "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manuscript"
+              "title": "KM-R 1"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "58bb7e30235b34f5",
   "lastOpenFiles": [
+    "Manuscripts/Manuscript.md",
     "Manuscripts/Kingmaker - Reborn (Manuscript).md",
     "Deities/Deities of Celesia.md",
     "Deities/Deities.md",
@@ -235,7 +236,6 @@
     "Mavericks/Characters/Thelaris of Braithorn.md",
     "Mavericks/Characters/Leinco Vagabond.md",
     "Mavericks/Characters/Aransi Daravu.md",
-    "Mavericks/Characters/Rolonsa Khalisan.md",
-    "Mavericks/Characters/Jacqueline deLouvin.md"
+    "Mavericks/Characters/Rolonsa Khalisan.md"
   ]
 }
