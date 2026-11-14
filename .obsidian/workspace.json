@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Kingmaker - Reborn (GM)/The Wolfshold Withering.md",
+                "file": "Secrets/KM-R 359 - GM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Wolfshold Withering"
+              "title": "KM-R 359 - GM"
             }
           },
           {
@@ -34,9 +34,22 @@
               "icon": "lucide-file",
               "title": "Dramatis Personae - KM-R"
             }
+          },
+          {
+            "id": "00bf5e648da32797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Kingmaker - Reborn (GM)/Dramatis Personae - KM-R/Elyssria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elyssria"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wolfshold",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +107,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,11 +227,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "84bdbe87a12df942",
+  "active": "58bb7e30235b34f5",
   "lastOpenFiles": [
     "Campaigns/Kingmaker - Reborn (GM)/The Wolfshold Withering.md",
+    "Campaigns/Kingmaker - Reborn (GM)/Dramatis Personae - KM-R/Dramatis Personae - KM-R.md",
+    "Campaigns/Kingmaker - Reborn (GM)/Dramatis Personae - KM-R/Elyssria.md",
     "Secrets/KM-R 297 - GM.md",
-    "KM-R 359 - GM.md",
+    "Secrets/KM-R 359 - GM.md",
     "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 359.md",
     "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 358.md",
     "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 308.md",
@@ -250,8 +264,6 @@
     "Mavericks/Characters/sedq2sLgB",
     "Mavericks/Characters/sedL8Cp4x",
     "Mavericks/Characters/sed0iSOBc",
-    "Mavericks/Characters/sed33WABx",
-    "Mavericks/Characters/Sylvanna Ama'tae.md",
-    "Lore/Conflicts/Ari'luth vs Lysenthiir.md"
+    "Mavericks/Characters/sed33WABx"
   ]
 }
