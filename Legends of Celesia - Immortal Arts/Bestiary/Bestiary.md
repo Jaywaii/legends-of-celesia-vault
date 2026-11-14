@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Legends of Celesia - Immortal Arts]]"
-state: "public"
-wip: true
-created: "2025-07-21"
-updated: "2025-07-28"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/bestiary-article"
 type: "category"
 ---
 

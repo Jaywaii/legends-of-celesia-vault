@@ -1,6 +1,5 @@
 ---
 type: "map"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/map/a5b4b8f0-f711-4243-b3e0-a196d831ba85"
 ---
 
 # Viridian Marches

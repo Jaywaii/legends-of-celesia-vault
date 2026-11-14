@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Mystic Arts]]"
-state: "public"
-wip: true
-created: "2025-02-15"
-updated: "2026-08-18"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/floramancy-article"
 ---
 
 # Floramancy

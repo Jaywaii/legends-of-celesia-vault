@@ -1,12 +1,5 @@
 ---
-template: "article"
 category: "[[House Rules]]"
-state: "public"
-draft: true
-wip: true
-created: "2022-06-04"
-updated: "2022-06-04"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/magic-weapons-article"
 ---
 
 # Magic Weapons

@@ -1,10 +1,4 @@
 ---
-template: "article"
-state: "public"
-wip: true
-created: "2025-07-06"
-updated: "2026-01-14"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/regions-article"
 type: "category"
 ---
 

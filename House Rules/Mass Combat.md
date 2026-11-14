@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[House Rules]]"
-state: "public"
-draft: true
-created: "2024-03-10"
-updated: "2024-03-10"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/mass-combat-article"
 ---
 
 # Mass Combat

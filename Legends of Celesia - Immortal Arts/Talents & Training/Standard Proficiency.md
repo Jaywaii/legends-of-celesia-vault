@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Base Talents]]"
-state: "public"
-wip: true
-created: "2024-05-14"
-updated: "2025-08-28"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/standard-proficiency-article"
 ---
 
 # Standard Proficiency

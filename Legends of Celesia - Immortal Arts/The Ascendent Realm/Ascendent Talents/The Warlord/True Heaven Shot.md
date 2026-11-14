@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[The Warlord]]"
-state: "public"
-wip: true
-created: "2025-07-01"
-updated: "2025-07-01"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/true-heaven-shot-article"
 ---
 
 # True Heaven Shot

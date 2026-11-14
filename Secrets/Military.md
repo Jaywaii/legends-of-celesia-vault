@@ -1,10 +1,7 @@
 ---
 type: "secret"
-state: "private"
 articles:
   - "[[The Lurindor Compact]]"
-created: "2024-08-27"
-updated: "2025-09-18"
 ---
 
 The size of each trade house's "security forces" is bought from the government. Thus, richer trade houses can buy the right to have a sizeable private army.

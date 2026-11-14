@@ -1,14 +1,8 @@
 ---
-template: "article"
 category: "[[House Rules]]"
 tags:
   - "houserules"
   - "pathofwar"
-state: "public"
-draft: true
-created: "2022-01-29"
-updated: "2022-05-21"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/path-of-war-article"
 ---
 
 # Path of War

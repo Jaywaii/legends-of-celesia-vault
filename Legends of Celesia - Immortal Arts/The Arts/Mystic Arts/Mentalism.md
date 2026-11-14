@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Mystic Arts]]"
-state: "public"
-wip: true
-created: "2024-10-16"
-updated: "2025-08-13"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/mentalism-article"
 ---
 
 # Mentalism

@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Peoples]]"
-state: "public"
-wip: true
-created: "2025-02-27"
-updated: "2025-07-03"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/dragons-article-1"
 ---
 
 # Dragons

@@ -2,7 +2,6 @@
 aliases:
   - "Legends of Celesia: Immortal Arts"
 type: "category"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/c/legends-of-celesia3A-immortal-ascension-category"
 ---
 
 # Legends of Celesia: Immortal Arts

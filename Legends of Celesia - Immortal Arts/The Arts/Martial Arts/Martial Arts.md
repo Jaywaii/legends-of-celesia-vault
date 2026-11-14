@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[The Arts]]"
-state: "public"
-wip: true
-created: "2024-04-29"
-updated: "2026-09-29"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/martial-arts-article"
 type: "category"
 ---
 

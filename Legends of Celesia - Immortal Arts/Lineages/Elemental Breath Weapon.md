@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Lineages]]"
-state: "public"
-wip: true
-created: "2026-08-27"
-updated: "2026-08-27"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/elemental-breath-weapon-article"
 ---
 
 # Elemental Breath Weapon

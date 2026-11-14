@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Lineage Talents]]"
-state: "public"
-wip: true
-created: "2025-03-01"
-updated: "2025-03-01"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/increased-longevity-article"
 ---
 
 # Increased Longevity

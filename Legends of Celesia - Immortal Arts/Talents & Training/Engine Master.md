@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Tinker]]"
-state: "public"
-wip: true
-created: "2025-02-17"
-updated: "2025-02-17"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/engine-master-article"
 ---
 
 # Engine Master

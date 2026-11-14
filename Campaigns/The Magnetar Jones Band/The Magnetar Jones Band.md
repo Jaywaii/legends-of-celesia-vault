@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Campaigns]]"
-state: "public"
-wip: true
-created: "2025-07-10"
-updated: "2025-07-10"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-magnetar-jones-band-article"
 type: "category"
 ---
 

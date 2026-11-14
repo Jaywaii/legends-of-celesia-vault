@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Alchemist]]"
-state: "public"
-wip: true
-created: "2026-09-02"
-updated: "2026-09-15"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/shareable-pills-article"
 ---
 
 # Shareable Pills

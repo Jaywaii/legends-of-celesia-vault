@@ -1,13 +1,7 @@
 ---
 aliases:
   - "Dramatis Personae - KM:R"
-template: "article"
 category: "[[Kingmaker - Reborn (GM)]]"
-state: "private"
-wip: true
-created: "2025-12-16"
-updated: "2025-12-16"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/dramatis-personae---km3Ar-article"
 type: "category"
 ---
 

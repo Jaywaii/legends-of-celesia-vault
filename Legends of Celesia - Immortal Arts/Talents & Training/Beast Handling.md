@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Animist]]"
-state: "public"
-wip: true
-created: "2026-08-09"
-updated: "2026-08-09"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/beast-handling-article"
 ---
 
 # Beast Handling

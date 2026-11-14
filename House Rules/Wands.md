@@ -1,10 +1,5 @@
 ---
-template: "article"
 parent: "[[Magic Items]]"
-state: "public"
-created: "2022-05-31"
-updated: "2022-05-31"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/wands-article"
 ---
 
 # Wands

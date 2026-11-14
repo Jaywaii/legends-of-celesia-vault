@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Skills]]"
-state: "public"
-wip: true
-created: "2025-03-16"
-updated: "2026-04-09"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/deception-article"
 ---
 
 # Deception

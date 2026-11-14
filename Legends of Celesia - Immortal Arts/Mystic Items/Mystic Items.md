@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Legends of Celesia - Immortal Arts]]"
-state: "public"
-wip: true
-created: "2025-11-26"
-updated: "2025-11-26"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/mystic-items-article"
 type: "category"
 ---
 

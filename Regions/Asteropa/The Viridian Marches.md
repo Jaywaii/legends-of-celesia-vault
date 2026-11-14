@@ -1,11 +1,5 @@
 ---
-template: "organization"
 category: "[[Asteropa]]"
-state: "public"
-wip: true
-created: "2026-01-29"
-updated: "2026-02-02"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-viridian-marches-organization"
 ---
 
 # The Viridian Marches

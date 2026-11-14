@@ -2,11 +2,8 @@
 aliases:
   - "KM:R 354 - GM"
 type: "secret"
-state: "private"
 articles:
   - "[[KM-R 354]]"
-created: "2026-07-19"
-updated: "2026-07-28"
 ---
 
 # Notes

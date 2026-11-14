@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Equipment]]"
-state: "public"
-draft: true
-created: "2022-05-25"
-updated: "2026-10-06"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/armor-and-shields-xx-article"
 ---
 
 # Armor and Shields xx

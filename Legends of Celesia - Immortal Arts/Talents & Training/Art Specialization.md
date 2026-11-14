@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Base Talents]]"
-state: "public"
-wip: true
-created: "2025-02-07"
-updated: "2025-02-07"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/art-specialization-article"
 ---
 
 # Art Specialization

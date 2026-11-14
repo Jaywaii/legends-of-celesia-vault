@@ -1,11 +1,5 @@
 ---
-template: "location"
 category: "[[Regions]]"
-state: "public"
-wip: true
-created: "2025-09-21"
-updated: "2025-10-14"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/asteropa-location"
 type: "category"
 ---
 

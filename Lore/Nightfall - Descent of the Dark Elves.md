@@ -1,16 +1,11 @@
 ---
 aliases:
   - "Nightfall: Descent of the Dark Elves"
-template: "article"
 category: "[[Lore]]"
 tags:
   - "lore"
   - "darkelf"
   - "darkelves"
-state: "public"
-created: "2022-01-25"
-updated: "2022-01-25"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/nightfall3A-descent-of-the-dark-elves--article"
 ---
 
 # Nightfall: Descent of the Dark Elves

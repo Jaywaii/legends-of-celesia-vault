@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Leader]]"
-state: "public"
-wip: true
-created: "2024-05-19"
-updated: "2024-05-30"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/personal-retinue-article"
 ---
 
 # Personal Retinue

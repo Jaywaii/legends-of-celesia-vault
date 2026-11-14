@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Base Talents]]"
-state: "public"
-wip: true
-created: "2025-04-30"
-updated: "2026-08-02"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/skill-action-edge-article"
 ---
 
 # Skill Action Edge

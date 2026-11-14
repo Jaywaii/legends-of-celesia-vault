@@ -1,10 +1,5 @@
 ---
-template: "article"
 parent: "[[Mystic Arts]]"
-state: "public"
-created: "2022-05-22"
-updated: "2025-03-20"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/power-components-article"
 ---
 
 # Power Components

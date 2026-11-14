@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Martial Arts]]"
-state: "public"
-wip: true
-created: "2026-09-08"
-updated: "2026-09-24"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/empty-hand-article"
 ---
 
 # Empty Hand

@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Lore]]"
-state: "public"
-wip: true
-created: "2025-01-07"
-updated: "2025-10-17"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/planes-of-the-multiverse-article"
 ---
 
 # Planes of the Multiverse

@@ -1,12 +1,5 @@
 ---
-template: "article"
 parent: "[[Mythos of the Cosmic Horrors]]"
-state: "public"
-draft: true
-wip: true
-created: "2025-10-06"
-updated: "2025-10-19"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-ing-gol-zha-dossier-article"
 ---
 
 # The Ing-gol'zha Dossier

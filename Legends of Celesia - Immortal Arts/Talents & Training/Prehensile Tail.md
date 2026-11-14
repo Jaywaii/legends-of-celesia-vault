@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Lineage Talents]]"
-state: "public"
-wip: true
-created: "2025-05-09"
-updated: "2025-05-09"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/prehensile-tail-article"
 ---
 
 # Prehensile Tail

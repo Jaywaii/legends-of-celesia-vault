@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Base Talents]]"
-state: "public"
-wip: true
-created: "2025-04-03"
-updated: "2025-04-04"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/specialized-grip-article"
 ---
 
 # Specialized Grip

@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Realm Forger]]"
-state: "public"
-wip: true
-created: "2024-01-21"
-updated: "2024-01-21"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/healthcare-haven"
 ---
 
 # Healthcare Haven

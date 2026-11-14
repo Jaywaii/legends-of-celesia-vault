@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Cultivator]]"
-state: "public"
-wip: true
-created: "2024-05-20"
-updated: "2025-01-04"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/qi-pool-article"
 ---
 
 # Qi Pool

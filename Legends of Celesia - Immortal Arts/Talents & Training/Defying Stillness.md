@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Acrobat]]"
-state: "public"
-wip: true
-created: "2026-03-24"
-updated: "2026-03-24"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/defying-stillness-article"
 ---
 
 # Defying Stillness

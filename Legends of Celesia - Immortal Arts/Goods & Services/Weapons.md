@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Goods & Services]]"
-state: "public"
-wip: true
-created: "2024-05-05"
-updated: "2026-11-06"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/weapons-article-1"
 ---
 
 # Weapons

@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Necromancy]]"
-state: "public"
-wip: true
-created: "2025-02-11"
-updated: "2025-02-11"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/lethargic-strike-article"
 ---
 
 # Lethargic Strike

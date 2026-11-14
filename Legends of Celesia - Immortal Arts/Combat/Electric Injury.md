@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Combat]]"
-state: "public"
-wip: true
-created: "2025-03-11"
-updated: "2026-07-25"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/electric-injury-article"
 ---
 
 # Electric Injury

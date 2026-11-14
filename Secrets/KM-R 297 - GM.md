@@ -2,11 +2,8 @@
 aliases:
   - "KM:R 297 - GM"
 type: "secret"
-state: "private"
 articles:
   - "[[KM-R 297]]"
-created: "2026-06-23"
-updated: "2026-06-23"
 ---
 
 - Favor owed to Elyssria: Arina, Argus, Aedre, Jupus, Davona, Sky, Orok, Rishoi

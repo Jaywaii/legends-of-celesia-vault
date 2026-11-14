@@ -1,13 +1,7 @@
 ---
 aliases:
   - "Damaging Objects"
-template: "article"
 category: "[[Goods & Services]]"
-state: "public"
-wip: true
-created: "2025-08-17"
-updated: "2025-08-25"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/damaging-objects-article-1"
 ---
 
 # Damaging Objects

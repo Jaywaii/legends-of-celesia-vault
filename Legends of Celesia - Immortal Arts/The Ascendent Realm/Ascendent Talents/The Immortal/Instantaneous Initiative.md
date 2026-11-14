@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[The Immortal]]"
-state: "public"
-wip: true
-created: "2025-07-04"
-updated: "2025-07-04"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/instantaneous-initiative-article"
 ---
 
 # Instantaneous Initiative

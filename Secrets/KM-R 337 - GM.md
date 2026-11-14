@@ -2,11 +2,8 @@
 aliases:
   - "KM:R 337 - GM"
 type: "secret"
-state: "private"
 articles:
   - "[[KM-R 337]]"
-created: "2025-11-16"
-updated: "2025-11-22"
 ---
 
 # Notes

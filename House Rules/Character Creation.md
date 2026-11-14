@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[House Rules]]"
-state: "public"
-draft: true
-created: "2022-01-31"
-updated: "2022-05-21"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/character-creation-article"
 ---
 
 # Character Creation

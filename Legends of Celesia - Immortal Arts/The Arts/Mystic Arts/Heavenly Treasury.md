@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Conjuration]]"
-state: "public"
-wip: true
-created: "2025-02-25"
-updated: "2025-02-26"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/heavenly-treasury-article"
 ---
 
 # Heavenly Treasury

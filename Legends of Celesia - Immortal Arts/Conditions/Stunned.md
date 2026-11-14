@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Conditions]]"
-state: "public"
-wip: true
-created: "2026-04-22"
-updated: "2026-05-21"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/stunned-article"
 ---
 
 # Stunned

@@ -1,12 +1,5 @@
 ---
-template: "article"
 category: "[[Feats]]"
-state: "public"
-draft: true
-wip: true
-created: "2024-03-10"
-updated: "2024-03-10"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/leadership-article"
 ---
 
 # Leadership

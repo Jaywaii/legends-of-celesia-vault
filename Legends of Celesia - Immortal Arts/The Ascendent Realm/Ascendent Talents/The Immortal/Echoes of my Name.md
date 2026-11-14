@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[The Immortal]]"
-state: "public"
-wip: true
-created: "2025-07-03"
-updated: "2025-07-11"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/echoes-of-my-name-article"
 ---
 
 # Echoes of my Name

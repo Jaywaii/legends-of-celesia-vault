@@ -2,11 +2,8 @@
 aliases:
   - "KM:R 300 - GM"
 type: "secret"
-state: "private"
 articles:
   - "[[KM-R 300]]"
-created: "2026-06-23"
-updated: "2026-06-23"
 ---
 
 ## Battle of Valenlet

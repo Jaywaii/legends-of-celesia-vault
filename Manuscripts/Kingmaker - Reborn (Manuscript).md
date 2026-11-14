@@ -2,7 +2,6 @@
 aliases:
   - "Kingmaker: Reborn"
 type: "manuscript"
-worldanvil_url: "https://www.worldanvil.com/community/manuscripts/read/1645674643-jaywaii-kingmaker3A-reborn"
 ---
 
 # Kingmaker: Reborn

@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Time]]"
-state: "public"
-wip: true
-created: "2025-10-02"
-updated: "2025-10-02"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/seize-their-moment-article"
 ---
 
 # Seize Their Moment

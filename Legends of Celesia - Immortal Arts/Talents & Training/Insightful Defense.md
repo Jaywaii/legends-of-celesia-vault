@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Cultivator]]"
-state: "public"
-wip: true
-created: "2024-05-14"
-updated: "2026-08-01"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/insightful-defense-article"
 ---
 
 # Insightful Defense

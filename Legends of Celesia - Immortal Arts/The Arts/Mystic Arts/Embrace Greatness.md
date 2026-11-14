@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Inspiration]]"
-state: "public"
-wip: true
-created: "2025-03-25"
-updated: "2025-03-25"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/embrace-greatness-article"
 ---
 
 # Embrace Greatness

@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Beyond the Adventure]]"
-state: "public"
-wip: true
-created: "2024-05-10"
-updated: "2026-04-13"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/army-combat-article"
 ---
 
 # Army Combat

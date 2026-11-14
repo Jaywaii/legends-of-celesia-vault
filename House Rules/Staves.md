@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Magic Items]]"
-state: "public"
-wip: true
-created: "2022-05-31"
-updated: "2022-09-17"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/staves-article"
 ---
 
 # Staves

@@ -1,11 +1,5 @@
 ---
-template: "location"
 category: "[[Asteropa]]"
-state: "public"
-wip: true
-created: "2024-08-27"
-updated: "2026-01-28"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-carpathosi-league-location"
 ---
 
 # The Carpathosi League

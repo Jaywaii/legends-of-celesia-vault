@@ -1,12 +1,5 @@
 ---
-template: "person"
 category: "[[Deities]]"
-state: "public"
-draft: true
-wip: true
-created: "2026-01-25"
-updated: "2026-01-25"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-marvelous-maker-person"
 ---
 
 # The Marvelous Maker

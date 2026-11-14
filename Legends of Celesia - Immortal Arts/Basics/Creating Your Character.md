@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Basics]]"
-state: "public"
-wip: true
-created: "2026-08-14"
-updated: "2026-08-15"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/creating-your-character-article"
 ---
 
 # Creating Your Character

@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Mystic]]"
-state: "public"
-wip: true
-created: "2024-05-16"
-updated: "2026-08-15"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/mystic-tradition-training-article"
 ---
 
 # Mystic Tradition Training

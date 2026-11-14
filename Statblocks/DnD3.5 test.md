@@ -1,6 +1,5 @@
 ---
 type: "statblock"
-worldanvil_url: "https://www.worldanvil.com/sheet/959263/view"
 ---
 
 # DnD3.5 test

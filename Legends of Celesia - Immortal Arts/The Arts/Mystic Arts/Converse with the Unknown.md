@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Mentalism]]"
-state: "public"
-wip: true
-created: "2024-10-16"
-updated: "2025-03-13"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/converse-with-the-unknown-article"
 ---
 
 # Converse with the Unknown

@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Force]]"
-state: "public"
-wip: true
-created: "2025-02-03"
-updated: "2025-02-10"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/wall-of-force-article"
 ---
 
 # Wall of Force

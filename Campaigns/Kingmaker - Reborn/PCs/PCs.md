@@ -1,7 +1,6 @@
 ---
 type: "category"
 category: "[[Kingmaker - Reborn]]"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/c/pcs-category"
 ---
 
 # PCs

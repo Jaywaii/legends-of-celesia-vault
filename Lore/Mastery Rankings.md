@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Lore]]"
-state: "public"
-wip: true
-created: "2020-08-29"
-updated: "2024-08-21"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/lore3A-mastery-rankings-article"
 ---
 
 # Mastery Rankings

@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Vigorous Body]]"
-state: "public"
-wip: true
-created: "2025-02-12"
-updated: "2026-09-24"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/soaring-leap-article"
 ---
 
 # Soaring Leap

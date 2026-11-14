@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Ascendent Talents]]"
-state: "public"
-wip: true
-created: "2025-06-29"
-updated: "2025-07-02"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-warlord-article"
 type: "category"
 ---
 
