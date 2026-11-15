@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dragormir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,7 +256,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "58bb7e30235b34f5",
+  "active": "97ee4bd8ba7be158",
   "lastOpenFiles": [
     "Campaigns/Kingmaker - Reborn (GM)/The Wolfshold Withering.md",
     "Secrets/KM-R 360 - GM.md",
