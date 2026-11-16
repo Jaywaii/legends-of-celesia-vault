@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Thundering Bull]]"
-state: "public"
-wip: true
-created: "2025-03-04"
-updated: "2025-03-04"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/meteor-crash-article"
 ---
 
 # Meteor Crash

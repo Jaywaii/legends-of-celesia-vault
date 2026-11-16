@@ -1,12 +1,7 @@
 ---
 aliases:
   - "Weapons"
-template: "article"
 parent: "[[Equipment]]"
-state: "public"
-created: "2022-05-25"
-updated: "2022-05-25"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/weapons-article"
 ---
 
 # Weapons

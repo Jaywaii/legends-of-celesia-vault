@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Deities]]"
-state: "public"
-wip: true
-created: "2025-11-02"
-updated: "2025-11-04"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-deathless-shroud-article"
 ---
 
 # The Deathless Shroud

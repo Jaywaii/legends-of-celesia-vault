@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Hazards]]"
-state: "public"
-wip: true
-created: "2025-03-21"
-updated: "2025-10-29"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/sanity-26-madnesses-article"
 ---
 
 # Sanity & Madnesses

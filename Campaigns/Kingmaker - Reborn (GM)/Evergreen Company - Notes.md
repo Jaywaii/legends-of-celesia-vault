@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Kingmaker - Reborn (GM)]]"
-state: "private"
-wip: true
-created: "2025-10-22"
-updated: "2025-10-22"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/evergreen-company---notes-article"
 ---
 
 # Evergreen Company - Notes

@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Lineages]]"
-state: "public"
-wip: true
-created: "2025-05-08"
-updated: "2026-08-15"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/venom-article"
 ---
 
 # Venom

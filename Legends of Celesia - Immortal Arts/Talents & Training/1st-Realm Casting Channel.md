@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Mystic]]"
-state: "public"
-wip: true
-created: "2024-05-16"
-updated: "2026-08-01"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/1st-realm-casting-channel-article"
 ---
 
 # 1st-Realm Casting Channel

@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Goods & Services]]"
-state: "public"
-wip: true
-created: "2024-05-05"
-updated: "2026-11-01"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/armours-article"
 ---
 
 # Armours

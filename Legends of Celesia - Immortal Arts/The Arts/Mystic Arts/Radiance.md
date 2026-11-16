@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Illusion]]"
-state: "public"
-wip: true
-created: "2025-03-05"
-updated: "2025-03-10"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/radiance-article"
 ---
 
 # Radiance

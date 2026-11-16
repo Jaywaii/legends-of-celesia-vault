@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[The Warlord]]"
-state: "public"
-wip: true
-created: "2025-06-29"
-updated: "2025-06-29"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/lightning-step-strike-article"
 ---
 
 # Lightning Step Strike

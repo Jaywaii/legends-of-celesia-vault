@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Pyromancy]]"
-state: "public"
-wip: true
-created: "2025-02-24"
-updated: "2025-03-13"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/lightning-bolt-article"
 ---
 
 # Lightning Bolt

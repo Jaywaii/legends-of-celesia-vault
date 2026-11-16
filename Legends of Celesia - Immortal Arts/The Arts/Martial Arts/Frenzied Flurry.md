@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Thrashing Fury]]"
-state: "public"
-wip: true
-created: "2025-02-12"
-updated: "2026-09-24"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/frenzied-flurry-article"
 ---
 
 # Frenzied Flurry

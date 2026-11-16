@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Time]]"
-state: "public"
-wip: true
-created: "2025-10-03"
-updated: "2025-10-03"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/flowing-time-bloom-article"
 ---
 
 # Flowing Time Bloom

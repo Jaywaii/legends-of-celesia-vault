@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Deities]]"
-state: "public"
-wip: true
-created: "2024-05-21"
-updated: "2025-11-02"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-greenheart-article"
 ---
 
 # The Greenheart

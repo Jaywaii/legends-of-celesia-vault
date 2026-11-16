@@ -1,12 +1,3 @@
----
-template: "article"
-state: "public"
-wip: true
-created: "2024-06-01"
-updated: "2026-08-01"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/psychic-battle-wip-article"
----
-
 # Psychic Battle WIP
 
 # Basics

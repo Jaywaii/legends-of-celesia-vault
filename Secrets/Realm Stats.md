@@ -1,10 +1,7 @@
 ---
 type: "secret"
-state: "private"
 articles:
   - "[[The Carpathosi League]]"
-created: "2024-08-27"
-updated: "2024-08-28"
 ---
 
 Each city-state has at 50,000 cyclops (25,000 in the city itself, and the rest spread across villages). Additionally, there are 50,000 to 500,000 slaves per city-state.

@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Legends of Celesia - Immortal Arts]]"
-state: "public"
-wip: true
-created: "2024-04-28"
-updated: "2026-08-22"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/basics-article"
 type: "category"
 ---
 

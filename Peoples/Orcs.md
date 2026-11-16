@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Peoples]]"
-state: "public"
-wip: true
-created: "2025-02-27"
-updated: "2025-05-28"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/orcs-article"
 ---
 
 # Orcs

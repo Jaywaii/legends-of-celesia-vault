@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Mystic Arts]]"
-state: "public"
-wip: true
-created: "2025-02-04"
-updated: "2026-08-15"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/time-article"
 ---
 
 # Time

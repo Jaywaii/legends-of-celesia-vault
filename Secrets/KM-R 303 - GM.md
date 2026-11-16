@@ -2,11 +2,8 @@
 aliases:
   - "KM:R 303 - GM"
 type: "secret"
-state: "private"
 articles:
   - "[[KM-R 303]]"
-created: "2026-06-25"
-updated: "2026-06-25"
 ---
 
 From 6 pm to 8 pm, the lament of banshees and the shroud of grave sprites eliminate Cohors Consul Magica and 1st Consul Magica Company. Rishoi is battered by Vorakios in the mindscape before being joined by allies.

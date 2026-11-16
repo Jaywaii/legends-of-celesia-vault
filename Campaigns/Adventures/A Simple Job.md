@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Adventures]]"
-state: "private"
-wip: true
-created: "2024-06-10"
-updated: "2025-03-12"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/a-simple-job-article"
 ---
 
 # A Simple Job

@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Stalwart]]"
-state: "public"
-wip: true
-created: "2025-03-04"
-updated: "2025-03-04"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/imperious-challenge-article"
 ---
 
 # Imperious Challenge

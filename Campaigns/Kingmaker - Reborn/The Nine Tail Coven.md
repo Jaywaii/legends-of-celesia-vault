@@ -1,10 +1,5 @@
 ---
-template: "article"
 category: "[[Kingmaker - Reborn]]"
-state: "public"
-created: "2022-01-30"
-updated: "2025-08-23"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-nine-tail-coven--article"
 ---
 
 # The Nine Tail Coven

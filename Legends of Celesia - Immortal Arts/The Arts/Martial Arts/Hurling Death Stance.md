@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Hurling Star]]"
-state: "public"
-wip: true
-created: "2026-09-16"
-updated: "2026-09-22"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/hurling-death-stance-article"
 ---
 
 # Hurling Death Stance

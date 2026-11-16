@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Cultivator]]"
-state: "public"
-wip: true
-created: "2025-02-09"
-updated: "2025-02-26"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/enlightened-elusiveness-article"
 ---
 
 # Enlightened Elusiveness

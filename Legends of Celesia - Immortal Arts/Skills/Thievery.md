@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Skills]]"
-state: "public"
-wip: true
-created: "2024-07-08"
-updated: "2026-02-10"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/thievery-article"
 ---
 
 # Thievery

@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Basics]]"
-state: "public"
-wip: true
-created: "2025-01-21"
-updated: "2026-07-02"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/background-article"
 ---
 
 # Background

@@ -1,10 +1,5 @@
 ---
-template: "article"
 category: "[[Lore]]"
-state: "public"
-created: "2024-05-21"
-updated: "2024-05-30"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/faith-in-celesia-article"
 ---
 
 # Faith in Celesia

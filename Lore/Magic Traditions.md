@@ -1,13 +1,8 @@
 ---
-template: "article"
 category: "[[Lore]]"
 tags:
   - "lore"
   - "magic"
-state: "public"
-created: "2022-01-25"
-updated: "2024-05-23"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/magic-traditions-article"
 ---
 
 # Magic Traditions

@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Kingmaker - Reborn (GM)]]"
-state: "private"
-wip: true
-created: "2024-05-23"
-updated: "2026-10-31"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-wolfshold-withering-article"
 ---
 
 # The Wolfshold Withering

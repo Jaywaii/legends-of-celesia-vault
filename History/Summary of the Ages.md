@@ -1,13 +1,7 @@
 ---
-template: "article"
 category: "[[History]]"
 tags:
   - "history"
-state: "public"
-wip: true
-created: "2022-03-09"
-updated: "2025-08-29"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/summary-of-the-ages-article"
 ---
 
 # Summary of the Ages

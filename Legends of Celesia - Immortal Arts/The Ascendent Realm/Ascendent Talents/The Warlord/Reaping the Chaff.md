@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[The Warlord]]"
-state: "public"
-wip: true
-created: "2025-07-02"
-updated: "2025-07-02"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/reaping-the-chaff-article"
 ---
 
 # Reaping the Chaff

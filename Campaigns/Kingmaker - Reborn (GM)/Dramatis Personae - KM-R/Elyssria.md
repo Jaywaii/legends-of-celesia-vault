@@ -1,11 +1,5 @@
 ---
-template: "person"
 category: "[[Dramatis Personae - KM-R]]"
-state: "private"
-wip: true
-created: "2025-06-09"
-updated: "2025-06-12"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/elyssria-person"
 ---
 
 # Elyssria

@@ -1,13 +1,7 @@
 ---
 aliases:
   - "Skills"
-template: "article"
 category: "[[House Rules]]"
-state: "public"
-draft: true
-created: "2022-05-23"
-updated: "2022-05-23"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/skills-article"
 ---
 
 # Skills

@@ -1,10 +1,5 @@
 ---
-template: "article"
 category: "[[Legends of Celesia - Immortal Arts]]"
-state: "public"
-created: "2026-08-22"
-updated: "2026-08-22"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/goods-26-services-article"
 type: "category"
 ---
 

@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Base Talents]]"
-state: "public"
-wip: true
-created: "2025-02-09"
-updated: "2026-08-01"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/stance-fusion-article"
 ---
 
 # Stance Fusion

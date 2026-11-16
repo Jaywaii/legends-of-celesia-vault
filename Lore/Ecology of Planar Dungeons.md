@@ -1,14 +1,9 @@
 ---
-template: "article"
 category: "[[Lore]]"
 tags:
   - "lore"
   - "dungeon"
   - "ecology"
-state: "public"
-created: "2020-09-04"
-updated: "2020-09-04"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/ecology-of-planar-dungeons-article"
 ---
 
 # Ecology of Planar Dungeons

@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Magic Items]]"
-state: "public"
-wip: true
-created: "2022-06-04"
-updated: "2022-06-04"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/magic-armors-26-shields-article"
 ---
 
 # Magic Armors & Shields

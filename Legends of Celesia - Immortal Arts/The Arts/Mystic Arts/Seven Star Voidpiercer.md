@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Thaumaturgy]]"
-state: "public"
-wip: true
-created: "2025-04-05"
-updated: "2025-05-17"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/seven-star-voidpiercer-article"
 ---
 
 # Seven Star Voidpiercer

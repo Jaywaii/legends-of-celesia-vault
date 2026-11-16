@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Thaumaturgy]]"
-state: "public"
-wip: true
-created: "2025-05-12"
-updated: "2025-05-17"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/shatter-sorcery-article"
 ---
 
 # Shatter Sorcery

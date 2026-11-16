@@ -1,12 +1,5 @@
 ---
-template: "article"
 category: "[[Lore]]"
-state: "public"
-draft: true
-wip: true
-created: "2024-09-12"
-updated: "2024-09-13"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-veddhic-reformation-article"
 ---
 
 # The Veddhic Reformation

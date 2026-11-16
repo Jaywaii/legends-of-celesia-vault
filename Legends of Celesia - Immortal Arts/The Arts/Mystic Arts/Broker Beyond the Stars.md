@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Conjuration]]"
-state: "public"
-wip: true
-created: "2025-02-10"
-updated: "2025-02-11"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/broker-beyond-the-stars-article"
 ---
 
 # Broker Beyond the Stars

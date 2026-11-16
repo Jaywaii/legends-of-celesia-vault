@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Lore]]"
-state: "public"
-wip: true
-created: "2025-10-04"
-updated: "2025-10-19"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/mythos-of-the-cosmic-horrors-article"
 ---
 
 # Mythos of the Cosmic Horrors

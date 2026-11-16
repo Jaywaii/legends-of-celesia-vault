@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Legends of Celesia - Immortal Arts]]"
-state: "public"
-wip: true
-created: "2024-05-01"
-updated: "2026-08-27"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/lineages-article"
 type: "category"
 ---
 

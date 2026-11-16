@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Peoples]]"
-state: "public"
-wip: true
-created: "2024-09-07"
-updated: "2025-03-14"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/elves-article"
 ---
 
 # Elves

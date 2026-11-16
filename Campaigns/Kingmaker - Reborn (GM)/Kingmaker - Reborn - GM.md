@@ -1,13 +1,7 @@
 ---
 aliases:
   - "Kingmaker: Reborn - GM"
-template: "article"
 category: "[[Kingmaker - Reborn (GM)]]"
-state: "private"
-wip: true
-created: "2024-05-23"
-updated: "2026-06-23"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/kingmaker3A-reborn---gm-article"
 ---
 
 # Kingmaker: Reborn - GM

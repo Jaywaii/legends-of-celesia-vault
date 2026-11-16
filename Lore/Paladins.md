@@ -1,12 +1,5 @@
 ---
-template: "article"
 category: "[[Lore]]"
-state: "public"
-draft: true
-wip: true
-created: "2024-11-17"
-updated: "2024-12-13"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/paladins-article"
 ---
 
 # Paladins

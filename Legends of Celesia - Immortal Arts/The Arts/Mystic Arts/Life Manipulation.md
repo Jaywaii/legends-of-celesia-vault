@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Necromancy]]"
-state: "public"
-wip: true
-created: "2024-09-05"
-updated: "2026-07-14"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/life-manipulation-article"
 ---
 
 # Life Manipulation

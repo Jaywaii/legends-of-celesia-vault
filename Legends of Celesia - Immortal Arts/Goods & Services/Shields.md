@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Goods & Services]]"
-state: "public"
-wip: true
-created: "2026-08-14"
-updated: "2026-11-01"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/shields-article"
 ---
 
 # Shields

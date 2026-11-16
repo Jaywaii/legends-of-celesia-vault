@@ -1,11 +1,5 @@
 ---
-template: "location"
 category: "[[Asteropa]]"
-state: "public"
-wip: true
-created: "2024-08-27"
-updated: "2026-01-31"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-lurindor-compact-location"
 ---
 
 # The Lurindor Compact

@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Goods & Services]]"
-state: "public"
-wip: true
-created: "2024-05-26"
-updated: "2026-02-23"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/vehicles-article"
 ---
 
 # Vehicles

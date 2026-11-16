@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Goods & Services]]"
-state: "public"
-wip: true
-created: "2025-02-19"
-updated: "2025-06-09"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/gizmos-article"
 ---
 
 # Gizmos

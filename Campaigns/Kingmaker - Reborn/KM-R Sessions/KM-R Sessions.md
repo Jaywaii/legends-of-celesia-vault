@@ -3,7 +3,6 @@ aliases:
   - "KM:R Sessions"
 type: "category"
 category: "[[Kingmaker - Reborn]]"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/c/sessions-category"
 ---
 
 # KM:R Sessions

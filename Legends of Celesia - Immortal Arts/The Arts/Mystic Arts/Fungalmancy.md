@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Mystic Arts]]"
-state: "public"
-wip: true
-created: "2026-08-18"
-updated: "2026-08-20"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/fungalmancy-article"
 ---
 
 # Fungalmancy

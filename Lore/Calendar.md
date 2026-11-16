@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Lore]]"
-state: "public"
-wip: true
-created: "2025-01-06"
-updated: "2025-11-10"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/calendar-article"
 ---
 
 # Calendar

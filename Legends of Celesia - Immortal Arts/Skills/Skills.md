@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Legends of Celesia - Immortal Arts]]"
-state: "public"
-wip: true
-created: "2024-05-20"
-updated: "2026-06-03"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/skills-article-1"
 type: "category"
 ---
 

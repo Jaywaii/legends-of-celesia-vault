@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[House Rules]]"
-state: "public"
-draft: true
-created: "2022-05-30"
-updated: "2022-05-30"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/magic-article"
 ---
 
 # Magic

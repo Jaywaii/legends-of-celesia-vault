@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Alchemist]]"
-state: "public"
-wip: true
-created: "2026-04-13"
-updated: "2026-04-13"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/alchemical-bombs-article"
 ---
 
 # Alchemical Bombs

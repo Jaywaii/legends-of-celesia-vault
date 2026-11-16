@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Berserker]]"
-state: "public"
-wip: true
-created: "2025-03-09"
-updated: "2025-03-09"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/rage-article"
 ---
 
 # Rage

@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Beyond the Adventure]]"
-state: "public"
-wip: true
-created: "2025-06-12"
-updated: "2025-06-14"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/retinue-article"
 ---
 
 # Retinue

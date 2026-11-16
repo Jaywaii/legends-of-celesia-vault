@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Deities]]"
-state: "public"
-wip: true
-created: "2025-02-26"
-updated: "2026-01-25"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/deities-of-celesia-article"
 ---
 
 # Deities of Celesia

@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Bestiary]]"
-state: "public"
-wip: true
-created: "2025-04-24"
-updated: "2025-05-09"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/creating-new-creatures-article"
 ---
 
 # Creating New Creatures

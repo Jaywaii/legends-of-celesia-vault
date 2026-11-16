@@ -1,13 +1,7 @@
 ---
 aliases:
   - "The Lightbringer"
-template: "article"
 category: "[[Deities]]"
-state: "public"
-wip: true
-created: "2022-06-22"
-updated: "2025-07-17"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/the-lightbringer-article"
 ---
 
 # The Lightbringer

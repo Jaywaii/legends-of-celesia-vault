@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Illusion]]"
-state: "public"
-wip: true
-created: "2025-03-06"
-updated: "2025-03-06"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/faeborn-mantle-article"
 ---
 
 # Faeborn Mantle

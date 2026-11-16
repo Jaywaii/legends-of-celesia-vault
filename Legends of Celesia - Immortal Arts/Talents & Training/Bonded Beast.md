@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[The Animist]]"
-state: "public"
-wip: true
-created: "2025-03-04"
-updated: "2026-08-09"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/bonded-beast-article"
 ---
 
 # Bonded Beast

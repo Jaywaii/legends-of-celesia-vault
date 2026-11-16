@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Talents & Training]]"
-state: "public"
-wip: true
-created: "2024-05-16"
-updated: "2026-04-15"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/base-talents-article"
 ---
 
 # Base Talents

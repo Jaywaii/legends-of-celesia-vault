@@ -1,13 +1,7 @@
 ---
 aliases:
   - "KM:R 1"
-template: "report"
 category: "[[KM-R Sessions]]"
-state: "public"
-wip: true
-created: "2025-09-18"
-updated: "2026-06-23"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/km3Ar-1-report"
 ---
 
 # KM:R 1

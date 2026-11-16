@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[House Rules]]"
-state: "public"
-draft: true
-created: "2022-05-25"
-updated: "2022-05-25"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/equipment-article"
 ---
 
 # Equipment

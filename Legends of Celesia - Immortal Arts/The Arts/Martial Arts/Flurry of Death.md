@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Empty Hand]]"
-state: "public"
-wip: true
-created: "2026-09-24"
-updated: "2026-09-24"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/flurry-of-death-article"
 ---
 
 # Flurry of Death

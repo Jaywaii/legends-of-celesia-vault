@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Lineages]]"
-state: "public"
-wip: true
-created: "2026-07-19"
-updated: "2026-07-26"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/human-article"
 ---
 
 # Human

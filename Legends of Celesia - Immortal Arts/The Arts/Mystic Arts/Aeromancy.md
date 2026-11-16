@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Mystic Arts]]"
-state: "public"
-wip: true
-created: "2025-02-13"
-updated: "2026-07-26"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/aeromancy-article"
 ---
 
 # Aeromancy

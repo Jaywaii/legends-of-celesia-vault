@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Bestialmancy]]"
-state: "public"
-wip: true
-created: "2025-03-07"
-updated: "2025-03-08"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/beast-shape-stance-article"
 ---
 
 # Beast Shape Stance

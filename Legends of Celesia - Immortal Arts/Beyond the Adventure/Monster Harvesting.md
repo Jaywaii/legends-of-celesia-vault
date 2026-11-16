@@ -1,10 +1,5 @@
 ---
-template: "article"
 category: "[[Beyond the Adventure]]"
-state: "public"
-created: "2022-05-22"
-updated: "2025-06-09"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/monster-harvesting-article"
 ---
 
 # Monster Harvesting

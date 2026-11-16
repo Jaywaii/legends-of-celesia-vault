@@ -2,11 +2,8 @@
 aliases:
   - "KM:R 353 - GM"
 type: "secret"
-state: "private"
 articles:
   - "[[KM-R 353]]"
-created: "2026-06-21"
-updated: "2026-07-12"
 ---
 
 # Notes

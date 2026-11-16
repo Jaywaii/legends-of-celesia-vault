@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Illusion]]"
-state: "public"
-wip: true
-created: "2025-03-10"
-updated: "2026-08-22"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/gloom-article"
 ---
 
 # Gloom

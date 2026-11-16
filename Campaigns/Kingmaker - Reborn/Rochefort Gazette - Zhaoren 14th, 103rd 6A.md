@@ -1,10 +1,5 @@
 ---
-template: "article"
 category: "[[Kingmaker - Reborn]]"
-state: "public"
-created: "2022-01-30"
-updated: "2025-08-23"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/rochefort-gazette---zhaoren-14th2C-103rd-6a-article"
 ---
 
 # Rochefort Gazette - Zhaoren 14th, 103rd 6A

@@ -1,11 +1,5 @@
 ---
-template: "article"
 category: "[[Peoples]]"
-state: "public"
-wip: true
-created: "2025-02-27"
-updated: "2025-03-07"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/gnomes-article"
 ---
 
 # Gnomes

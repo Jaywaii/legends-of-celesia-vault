@@ -1,6 +1,5 @@
 ---
 type: "statblock"
-worldanvil_url: "https://www.worldanvil.com/sheet/959113/view"
 ---
 
 # LoC test

@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Terramancy]]"
-state: "public"
-wip: true
-created: "2025-02-25"
-updated: "2025-03-13"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/acid-spray-article"
 ---
 
 # Acid Spray

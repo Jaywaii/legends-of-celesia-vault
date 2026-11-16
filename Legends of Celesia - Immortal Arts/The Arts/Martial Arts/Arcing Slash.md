@@ -1,11 +1,5 @@
 ---
-template: "article"
 parent: "[[Hurling Star]]"
-state: "public"
-wip: true
-created: "2026-09-29"
-updated: "2026-09-29"
-worldanvil_url: "https://www.worldanvil.com/w/legends-of-celesia-jaywaii/a/arcing-slash-article"
 ---
 
 # Arcing Slash

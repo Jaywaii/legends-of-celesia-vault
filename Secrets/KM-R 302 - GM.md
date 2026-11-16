@@ -2,11 +2,8 @@
 aliases:
   - "KM:R 302 - GM"
 type: "secret"
-state: "private"
 articles:
   - "[[KM-R 302]]"
-created: "2026-06-25"
-updated: "2026-06-25"
 ---
 
 # Notes
