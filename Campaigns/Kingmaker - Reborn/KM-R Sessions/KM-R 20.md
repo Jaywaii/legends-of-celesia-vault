@@ -7,11 +7,11 @@ category: "[[KM-R Sessions]]"
 # KM:R 20
 
 - The **<u>Blood Jackals</u>** are one of Amonkhaten's deadliest agents. They serve the Ashaki God-King as hunters and assassins, sent to hunt down and eliminate his enemies.
-	- **[[Razeena (female kitai stalker 5]]):** Razeena the Bloodclaw is slender and leopard-like: a thin layer of golden fur with black spots. She is quiet and precise.
-	- **[[Menekheb (male ifrit magus 5]]):** Menekheb Flamelord is the Blood Jackals' second in command. He is a long time comrade of Amenaru.
-	- **[[Amenaru (male human investigator 5]]):** Leader of the Blood Jackals, Amenaru the Erudite is a tall, thin man with deeply tanned skin, and sports a thin, gold vertical chin strip. His bald head is covered with a wide-brimmed hat, and he wears a pair of glasses. He is always well-spoken and thoughtful, and the one that comes up with the plans.
-	- **[[Musaid (male human bloodrager 5]]):** Musaid of the Raging Flame is a tall, bulky man with dark skin covered in arcane tattoos. His head is bald except for a long top-knot, and a long braid of hair on his chin. He is the muscle of the Jackals.
-	- **[[Shawi (female human inquisitor 5]]):** Shawi Throne-Speaker is devoted to the will of Amonkhaten II. She is stern and fanatic.
+	- **[[Razeena]] (female kitai stalker 5):** Razeena the Bloodclaw is slender and leopard-like: a thin layer of golden fur with black spots. She is quiet and precise.
+	- **[[Menekheb]] (male ifrit magus 5):** Menekheb Flamelord is the Blood Jackals' second in command. He is a long time comrade of Amenaru.
+	- **[[Amenaru]] (male human investigator 5):** Leader of the Blood Jackals, Amenaru the Erudite is a tall, thin man with deeply tanned skin, and sports a thin, gold vertical chin strip. His bald head is covered with a wide-brimmed hat, and he wears a pair of glasses. He is always well-spoken and thoughtful, and the one that comes up with the plans.
+	- **[[Musaid]] (male human bloodrager 5):** Musaid of the Raging Flame is a tall, bulky man with dark skin covered in arcane tattoos. His head is bald except for a long top-knot, and a long braid of hair on his chin. He is the muscle of the Jackals.
+	- **[[Shawi]] (female human inquisitor 5):** Shawi Throne-Speaker is devoted to the will of Amonkhaten II. She is stern and fanatic.
 
 ---
 

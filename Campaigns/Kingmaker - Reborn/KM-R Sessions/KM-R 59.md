@@ -6,7 +6,8 @@ category: "[[KM-R Sessions]]"
 
 # KM:R 59
 
-**Previously, on Kingmaker Reborn:**
+# Previously
+
 Under the control of the Dancing Lady, the newly self-appointed fey queen of the Evergreen, the Carnival of Tears has come to Promethea. The Dancing Lady's chief agent, the Cold Rider, used the artifact known as the Eye of Rapture to enchant the colony's populace into attending the fair, oblvious to the deadly events now perverted into deadly slaughterhouses. The Evergreen Company, having already defeated the Swinomancer, split the team in half, one to end the Ice Carving Competition, and the other to end the threat of the Ice Maze. Ayaki, along with Louis and Cortez, killed the frosty chiselers that were running the ice carving competition, though one escaped. In the Ice Maze, Rishoi, Davona, Jupus, and Gnafang finally slew the minotaur Gradzaal, though the dark ice satyr Bogrot, aka the Ice Devil, escaped. The two teams reunited at the entrance of the Ice Maze. They were then suprised by the sudden appearance of a quickling. The quickling taunted the heroes by noticeably twirling around his finger a distinctive shard of shadowy ice attached a string. The quickling dashed away, and the party gave chase. They followed him to the Titan's Wheel, where several dark ice redcaps had transformed the attraction into a device of torture and death, using the bodies of fairgoers to work the machinery. The quickling alerted the redcaps, who were happy to add more bodies into the Wheel's insides.
 
 ---

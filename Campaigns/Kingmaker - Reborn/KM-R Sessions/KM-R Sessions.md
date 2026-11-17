@@ -368,3 +368,4 @@ category: "[[Kingmaker - Reborn]]"
 - [[KM-R 357|KM:R 357]]
 - [[KM-R 358|KM:R 358]]
 - [[KM-R 359|KM:R 359]]
+- [[KM-R 360|KM:R 360]]

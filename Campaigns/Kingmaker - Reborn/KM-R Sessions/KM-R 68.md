@@ -6,15 +6,18 @@ category: "[[KM-R Sessions]]"
 
 # KM:R 68
 
+# Previously
+
+The Evergreen Company took measures to avoid being assassinated by the Dancing Lady's agents. At the same time, plans were made to bring the fight to her. Tabrir and Tobias both agreed to accept the Company's invitation in fighting the Dancing Lady. Sky scried upon them to gain valuable intelligence, and Cethin, Argus, Arina, Davona, Tabrir and Tobias made a public show to leaving the city to explore the Evegreen. On the following night, the group successfully lured out the hidden figures pursuing them.
+
+---
+
 - Sky realized the mythic power that the cloaked swordswoman was manifesting when he scried her.
 - Arina remembered receiving a rose made of shadowstuff almost a year ago in Lurindor.
 - Evergreen company defeated the svartalfar assassins sent after them. Tobias had slept through the whole fight.
 - Returning to Promethea, the company continued to plan their attack against the Dancing Lady. Ideas involved burrowing underneath, summoning hurricanes and planar allies, communing. Argus assembled his Ironwatch, and began supplying them with an extra helping of flour.
 
 ---
-
-**Previously on Kingmaker:**
-The Evergreen Company took measures to avoid being assassinated by the Dancing Lady's agents. At the same time, plans were made to bring the fight to her. Tabrir and Tobias both agreed to accept the Company's invitation in fighting the Dancing Lady. Sky scried upon them to gain valuable intelligence, and Cethin, Argus, Arina, Davona, Tabrir and Tobias made a public show to leaving the city to explore the Evegreen. On the following night, the group successfully lured out the hidden figures pursuing them.
 
 **Argus Scouting Enemy:**
 The night before they left in the caravan, Argus uses his ring to request audience with Elyssria. He apologizes for their silence and absence, as it has been a long time since they spoke, and asks if she has any insight on the Dancing Lady's forces, knowing this is the boon he will owe her.

@@ -29,9 +29,9 @@ articles:
 - If Stealth is successful: *Low rythtmic rumblings emanates from within the tree. The long, sinewy body of the three-headed dragon entwines around the branches. The green and black zmey slumbers lightly.*
 - If Stealth fails: *Your ears are assaulted by a deafening roar, followed by the crashing sounds of branches and leaves. The zmey shoots out of upwards from the Heart's tree into the air, and roars at you.*
 - [[Drazekmir]]: *Crashing through the forest, this three-headed dragon stands upright, its tail thrashing from side to side as it walks. A vicious mouth lined with ivory teeth graces each head and green scales gleam in the ﬂeeting sunlight piercing the ancient canopy.*
-	- //"You intrude upon my domain!" the left head yells.
-	- The right head roars, "Long has it been since I dined on fools!"
-	- "And had such fine maidens to obtain," the central head slurs, leaning forward and leering at the women in the company.//
+	- *"You intrude upon my domain!" the left head yells.*
+	- *The right head roars, "Long has it been since I dined on fools!"*
+	- *"And had such fine maidens to obtain," the central head slurs, leaning forward and leering at the women in the company.*
 
 ## Osla
 

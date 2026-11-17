@@ -26,16 +26,6 @@ Cethin had been stealthily spying on Drelevo. Although the other colony leader h
 - As the Company made preparations to return the Heart of the Forest to the Old Arborfane, word reached them that many travelers and hunters were being waylaid by magical beasts such as large wolves, plant monsters, and hostily fairies, all along the areas bordering the Old Arborfane. Sky suggested they visit the Old Beldame before entering the forest to see if she has any insight into the forest.
 - The Company departed from Promethea, riding upon the vardo they had taken from the Havenford family. However, along there way, they saw in the distance a dust up heading their way. When they got closer, they saw what was approaching them. It was a troupe of a dozen green hussars, beings made of vines and branches, shaped like winged human riders on horses. They were no doubt attracted to the heart they were carrying. Although the hussars may have been acting on the wil of the Old Arborfane, their charge with lances pointed at the Company forced them the defend themselves, and Jupus fired the opening shot. The foremost hussar took the shot straight in the chest, wood splinters expliding out of its back.
 
-## Session 36.5
-
-Blasted by Sky's *fireball*, the troupe of green hussars were easy pickings for the combined might of the whole Evergreen Company. Already burnt and smoldering, the remaining wooden agents of the Old Arborfane were smashed and cut down, but not before inflicting some solid blows, as Ayaki could attest. The hussars spoke no words nor voiced any pain as they were chopped down, except for the creaking of wood. Once truly the dead, the Company could see that man and horse were actually one whole plant creature made of wood and leaves. Even their weapons, shields, and armor were a part of them.
-
-The Evergreen Company continued their traveling to the hut of the Old Witch of the Evergreen. Along their way, packs of dire wolves, inquisitive fairies, and strange plant creatures appeared. Some of the more hostile creatures attempted to approach, lured by the power of the Heart, while others hanged warily back to observe the party. The Evergreen Company easily drove off the aggressive ones with a fantastic show of force. Aside from the assault from the green hussars, the Company faced no other opposition on their trek.
-
-On the evening of the third day of traveling, the Company arrived at the witch's hut. They noticed many charms made of sticks, stones, or bones adorning the hut or arrayed around the hut. A plume of smoke escapes from the chimney, and a flickering light illuminates the small window. Before you can ring the bell, the door creaks open, and the silhouette of a crooked hand beckons you in.
-
-Upon entering the small hut, you see the old pale-green crone sitting in a rocking chair near the firepit. "So, have you finally made your preparations to return the Heart?" the Old Beldame asked while peering intensely at you all.
-
 ## Grand Colonial Ball
 
 - **<u>Argent Rose Society:</u>** Chapter-Sage Joliette Beauchamp of the Rochefort chapter of the Argent Rose Society approaches the PCs to propose sharing the cost of a Bardic College in Promethea (20 BP each). In return, Prateria recognizes the Argent Rose Society as a legitimate guild in their nation, and the Argent Rose gains the Economy +1 bonus instead of Prateria.

@@ -6,7 +6,11 @@ category: "[[KM-R Sessions]]"
 
 # KM:R 61
 
-**Previously on Kingmaker:** The Evergreen Company continued to stop the attractions of the Carnival of Tears from continuing to murder the people of Promethea who continue to be under the magical sway of the Orb of Rapture. Most recently, they managed to drive off the pixie Arran, who was running the Strong Ale tent, where the ale had been switched to a magical concoction that turned its drinkers into trees. Upon doing so, however, the Cold Rider, the Dancing Lady's chief servant behind this attack, had had enough. The snow storm grew fiercer, but your citizens continue carrying on their day as if it was clear skies, ignoring the beginning of frostbite forming on their body and those that had already fallen onto the ground.  The wind carries the Rider's haunting voice: "Foolish would-be heroes of Promethea, I have deigned to notice your pathetic efforts to interfere with the plans of the Dancing Lady. Should you possess even a modicum of courage, come and face me upon this lake of ice, and we will determine who truly rules this land."
+# Previously
+
+The Evergreen Company continued to stop the attractions of the Carnival of Tears from continuing to murder the people of Promethea who continue to be under the magical sway of the Orb of Rapture. Most recently, they managed to drive off the pixie Arran, who was running the Strong Ale tent, where the ale had been switched to a magical concoction that turned its drinkers into trees. Upon doing so, however, the Cold Rider, the Dancing Lady's chief servant behind this attack, had had enough. The snow storm grew fiercer, but your citizens continue carrying on their day as if it was clear skies, ignoring the beginning of frostbite forming on their body and those that had already fallen onto the ground.  The wind carries the Rider's haunting voice: "Foolish would-be heroes of Promethea, I have deigned to notice your pathetic efforts to interfere with the plans of the Dancing Lady. Should you possess even a modicum of courage, come and face me upon this lake of ice, and we will determine who truly rules this land."
+
+---
 
 <u>After the battle:</u>
 Upon defeat, the cold rider melts into a puddle of cold water, seeping into the earth. The Orb of Rapture cracks, breaking in the pieces, losing its luster. The snow storm died alongside with the rider, and the clouds part to reveal the sky. Quietness falls upon the carnival. Then the first screams pierced the air. The carnival's laughter and merriment gave way to cries of horror and wails of anguish.

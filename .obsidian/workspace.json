@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secrets/KM-R 354 - GM.md",
+                "file": "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 176.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KM-R 354 - GM"
+              "title": "KM-R 176"
             }
           },
           {
@@ -255,8 +255,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ed606fe2f3e65eb",
+  "active": "58bb7e30235b34f5",
   "lastOpenFiles": [
+    "Secrets/KM-R 339 - GM.md",
+    "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 3.md",
+    "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 2.md",
+    "Secrets/KM-R 354 - GM.md",
     "Secrets/KM-R 99 - GM.md",
     "Secrets/KM-R 98 - GM.md",
     "Secrets/KM-R 97 - GM.md",
@@ -279,10 +283,6 @@
     "Secrets/KM-R 81 - GM.md",
     "Secrets/KM-R 80 - GM.md",
     "Secrets/KM-R 8 - GM.md",
-    "Secrets/KM-R 79 - GM.md",
-    "Secrets/KM-R 78 - GM.md",
-    "Secrets/KM-R 77 - GM.md",
-    "Secrets/KM-R 76 - GM.md",
     "Mavericks/sede7YrsH",
     "Mavericks/Characters/sedAXPBml",
     "Mavericks/seddw8bfS",
