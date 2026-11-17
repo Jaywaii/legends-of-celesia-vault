@@ -1,0 +1,19 @@
+---
+aliases:
+  - "KM:R 107 - GM"
+type: "secret"
+articles:
+  - "[[KM-R 107]]"
+---
+
+# Notes
+
+- Agatha Sorliu CR 12: 4,800 XP (Raggi, Igvald, Agna, Rex)
+- Shumgola CR 10: 2,400 XP (Raggi, Igvald, Agna, Rex)
+- Total: 7,200 XP (Raggi, Igvald, Agna, Rex)
+
+- Team 13 faces off with the floating skull, a psychic stalker, inside the 3rd focal tower. Its appearance was so unnerving that it broke Igvald's mind. The inquisitor suddenly became obsessed with skulls. Fortunately, he is able to resist the urge run over and embrace the small, solid skull on the altar. Although they are able to see where it is, its formless nature makes it difficult for them to strike it. Agna launches shards of stone at it. The floating undead narrowly dodges it, but flies right in the path of the dwarf's follow-up kinetic blast. However, her stones fly harmless right through the incorporeal form of the skull. "It's like the poltergeist!" Agna cries out to the others. Although it hovers slightly above them, Rex is able to strike at it, luckily hitting it more than missing it. In response, the psychic stalker flies through Rex, hurting him not physically, but within his mechanical soul. The jiren's optics then scramble, and Rex is able to see the psychic stalker more clearly. He gets additional data to appear in his internal HUD as Raggi provides *battlesense* to everyone in his collective. The psychic stalker attempts to enter and *possess* Rex, but the jiren surges his nanites, and in a flash of blue light, the undead skull bounces off of him. Igvald joins Rex, and delivers several upward kicks and uppercuts. A final, flying uppercut from Igvald smashes the skull from below, and the psychic stalker explodes in a flash of light and ectoplasm, its inhuman mental scream fading into nothingness.
+- They examine the skeleton on the altar. It appears to be that of a small humanoid. A tarnished silver rose pin is found attached to the still intact armored coat. In its magical haversack is a notebook belonging to one Agatha Sorliu, and it described her discoveries as a medium, and what she learned from communing with the dearly departed. While Igvald lets himself become fascinated with Sorliu's skull, the rest of the team examine the chamber. They find another of Talien Firesong's notes, in a scroll case hidden in a broken hole in the wall:
+	- *"Agatha Sorliu's sacrifice will not be forgotten, nor will it be in vain. It only took a few convincing words to have her perform the opening ritual, but I suspect that she too was already touched by the truth, and was already compelled to do so. A pity, with her powers as a medium, she was able to form a deeper connection to this place than any of us. How envious I am of her, for her connection now will be more strong and permanent than before."*
+- Deciphering the symbols in the murals engraved on the walls, the team figures out how to open the Gate of the Mother. Enlarging himself, Raggi plucks one of the yellow orbs from the layer of black bile, and he swallows it. He feels it grow in his stomach, twisting his insides. The giant kobold then vomits his stomach's contents. Hitting the floor in a splat of bile is a purple, writhing worm the size of a fist. It writhes and bulges, and rapidly grows large, almost fifteen feet in length. It is a shumgola, one of Xin'carlath's horrific spawn. However, before it is able to pose a threat to the team, Rex cuts it open, and Igvald slams his fists into it, exploding its insides and ripping it open in twain. They then take its heart, and place it in an alcove within the door blocking their way. The stone slabs that blocked the entrance and exit then roll away as the tower illuminates, now active.
+- The team gathers Sorliu's remains in her haversack, though Igvald insists on carrying her skull himself.

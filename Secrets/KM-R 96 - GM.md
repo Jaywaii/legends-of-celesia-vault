@@ -1,0 +1,89 @@
+---
+aliases:
+  - "KM:R 96 - GM"
+type: "secret"
+articles:
+  - "[[KM-R 96]]"
+---
+
+# Notes
+
+- Renown: 13 (+10 BP, +3 Major sway Duloup)
+
+- The Praterian Council finalizes the schedule for the Viridian Games:
+	- **Fireday, Firhen 18th – Opening Ceremony**—The Viridian Games officially begin with an opening ceremony, and introduction of all the participants. No real games have begun, but a celebration is expected.
+		- <u>Morning: Opening Ceremony</u>
+			- The streets of Promethea are lined with crowds as a parade of the competitors and dignitaries make their way to the centre of town.
+			- At the centre of Promethea, a crowd of the visiting dignitaries, tournament participants, and those fortunate Promethean lucky enough to find space gather around Memorial Park. The crowd awaits Prateria's leaders to begin the open ceremony of the first Viridian Games. *DC 20 Diplomacy, Intimidate, or Performance (oratory) check, with the result determining how many Renown points Prateria gains. Renown +1 for every 10 that the result beats the DC. If the check fails, reduce Renown by 1.*
+			- Osla, Sister Félicité, and the other representatives of the invited churches for a circle around the Great Cypress, and perform a pantheistic blessing upon the competitors and the games to comes.
+		- <u>Afternoon:</u>
+			- *Demonstrations:* There are many booths and stages for the competitors to demonstrate their skills to the crowd.
+			- *Festivities:* There are carnival games and street vendors for the public.
+			- *Dignitaries:* The visiting officials spend this time meeting with other dignitaries to discuss issues, make deals, and build relationships.
+		- <u>Evening:</u>
+			- *Banquet:* All of the officials and their champions are invited to attend a banquet.
+			- *Fesitivities:* There are carnival games and street vendors for the public.
+	- **Starday, Firhen 19th – Game Day 1**—1st round robin placements.
+		- <u>Morning:</u>Archery, gun course.
+		- <u>Afternoon:</u>Melee duels, spell duels.
+		- <u>Evening:</u>Mixed teams battles.
+	- **Sunday, Firhen 20th – Game Day 2**—2nd round robin placements.
+		- <u>Morning:</u> Foot races, obstacle courses.
+		- <u>Afternoon:</u> Horse race
+		- <u>Evening:</u> Mixed teams battles.
+	- **Moonday, Firhen 21st – Game Day 3**—3rd round robin placements
+		- <u>Morning:</u> Foot races, obstacle courses.
+		- <u>Afternoon:</u> Jousts.
+		- <u>Evening:</u> Mixed teams battles.
+	- **Waterday, Firhen 22nd – Game Day 4**—1st round of eliminations.
+		- <u>Morning:</u> Archery, target shooting.
+		- <u>Afternoon:</u> jousts, spell duels.
+		- <u>Evening:</u> Mixed teams battles.
+	- **Windsday, Firhen 23rd – Game Day 5**—2nd round of eliminations.
+		- <u>Morning:</u> Foot races, obstacle courses.
+		- <u>Afternoon:</u> Horse race, Melee duels.
+		- <u>Evening:</u> Mixed teams battles.
+	- **Earthday, Firhen 24th – Game Day 6**—Semi-finals.
+		- <u>Morning:</u> Archery, obstacle course, gun course.
+		- <u>Afternoon:</u> Jousts, melee duel, spell duel.
+		- <u>Evening:</u> Mixed teams battle.
+	- **Fireday, Firhen 25th – Game Day 7**—<u>Finals!</u>
+		- <u>Morning:</u> Archery, obstacle course, target shooting.
+		- <u>Afternoon:</u> Joust, melee duel, spell duel.
+		- <u>Evening:</u> Mixed teams battle.
+	- **Starday, Firhen 26th – Closing Ceremony**—
+		- <u>Morning:</u> Festivities.
+		- <u>Afternoon:</u> Closing ceremony.
+		- <u>Evening:</u> Final banquet for the competitors and dignitaries.
+- Osla schedules morning prayers with each religious representative, and plans on taking that opportunity to speak with them and form closer relations with them:
+	- 16th -     Greet religious leaders as they arrive
+	- 17th -     Meeting with religious leaders to discuss strategy for opening ceremony blessing, morning prayers, and evening of religious songs
+	- 18th -     Opening ceremony blessing & meet with Father Joram
+	- 19th -     Attend morning prayer (Kaiden) & meet with Kaiden to discuss shrine/temple requests
+	- 20th -     Attend morning prayer (Lucial)  & meet with Lucial to discuss shrine/temple requests
+	- 21st -     Attend morning prayer (Phaenya)  & meet with Phaenya to discuss shrine/temple requests
+	- 22nd -     Attend morning prayer (Karthaor)  & meet with Karthaor to discuss shrine/temple requests
+	- 23rd -     Attend morning prayer (Kimlylia)  & meet with Kimlylia to discuss shrine/temple requests & evening of religious songs
+	- 24th -     Attend morning prayer (Deianeira)  & meet with Deianeira to discuss shrine/temple requests
+- Arina plans on greeting specific people as they arrive, and schedules meeting specific people during the Games:
+	- 14th - Deloup greeting
+	- 15th - Chateaufoy greeting
+	- 16th - Montari +D'onofrio/Sotillini greeting
+	- 17th - Sootscale Meeting
+	- 19th - R Drelevo, P S-Drelevo, Sovrani
+	- 20th - Biancardi
+	- 21st - Chateaufoy (remainders), Dinivio
+	- 22nd - Harkur, Sootscale (Remainders)
+	- 23rd - Teredoro, Duluop (remainder)
+	- 24th - Varano
+	- 25th - Break
+- Tabrir:
+	- 19th- Duloup/Drelevo/Sovrani
+	- 20th-Sotillini/Biancardi/Chateaufoy
+	- 21th-Dinovio/Harkur/Montari
+	- 22nd- Sootscales/Teredoro/Varano
+	- 23rd-D'onofrio
+	- 24th- Break
+	- 25th- Attila's orcish delegation
+- Argus and Davona instruct their forces to be extra vigilant, and to be proactive in reporting any suspicious activity.
+- The Grondeloup delegation arrives at Promethea on Moonday 14th. Theodore Duloup rides upon his warpony at the head of the small caravan of mounted riders, carriages, and wagons. Theodore warmly greets the Evergreen Company, telling them how happy he is to visit them again, and thanking them for the invitation. He introduces his traveling companions who step out of the main carriage: Grondeloup's Grand Diplomat Josèphine Chansonnais and Magister Erikos Pentras. In addition to a small contingent of guards, a dozen or so competitors from Grondeloup accompany the delegation. After seeing to his people settling in their accomodations (a rented housing block royally furnished), the Praterian Council invited the Grondeloup delegation to dinner at the *Soussol*. At the dinner, Theodore discusses with Arina regarding increasing Prateria's relations with Grondeloup and Rochefort. He asks what Arina (or the rest of Prateria's leaders) what they think they should do to increase trade, and each nation's prosperity. He also broaches the subject of forming closer ties with Rochefort. As a native of Rochefort, he is naturally inclined to see Rochefort as Grondeloup's main ally, and encourages others to do so as well. He warns of being wary of any involvement with the human merchants of Lurindor. In the end, they agree to start the process of establishing an embassy treaty with each other, and hopefully progress all the way to forming a full alliance between Prateria and Grondeloup.
