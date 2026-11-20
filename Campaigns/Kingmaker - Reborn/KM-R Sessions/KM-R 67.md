@@ -1,7 +1,8 @@
 ---
 aliases:
-  - "KM:R 67"
+  - KM:R 67
 category: "[[KM-R Sessions]]"
+parent: "[[Kingmaker - Reborn]]"
 ---
 
 # KM:R 67
