@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 44
+[[KM-R 43|← Previous: KM:R 43]] · [[KM-R 45|Next: KM:R 45 →]]
 
 - Team 13 recovers their wounds from their fight with the yangethe. They must once against attempt to navigate the twisted maze of paths of Ing-gol'zha, a task which takes a toll on their minds. They notice that the city is not built of stone, but of some form of calcified material. Alien engravings decorate the city's structures, made of symbols and impossible shapes that hurt to examine. Their sense of time is also distorted. However, they eventually make it to the first pylon.
 - At the base of the pylon is a circular doorway leading into a large round chamber within the pylon. Across the room is another doorway, sealed with a stone slab. Hovering above it is a massive skeletal torso with arms and skull attached, seemingly overlooking the entire chamber. The walls of the chamber is lined with a large trough of glowing green viscious ooze embedded into the floor. This is the furthest that the Evergreen Company ventured forth.

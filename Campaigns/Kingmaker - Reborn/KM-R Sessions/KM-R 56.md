@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 56
+[[KM-R 55|← Previous: KM:R 55]] · [[KM-R 57|Next: KM:R 57 →]]
 
 - Tyg-twitter-twig and Percilash have accompnied Cortez (much to his discomfort).  They tell the Evergreen Party and very very important guest needs to talk them, right now. Right now! A very big big-wig among fairies. But I think her hair is natural, not a wig?
 - The snowfall is getting stronger now. Heavy snowflakes drop frequently and the sky is completely covered in thick, darkening clouds. There is already 2 inches of snow on the ground, audible crunching underneath your feet, and it costs 2 squares of movement to enter a snow-covered square. Perception and Fly checks and ranged attack rolls all have disadvantage. Wind is blowing from North to South, forcing Small creatures to make a DC 10 Strength check to move in the northern direction or a DC 20 Fly skill check if airborne. Tiney creatures on the ground are knocked prone and rolled 1d4 × 10 feet, taking 1d4 points of nonlethal damage per 10 feet, unless they make a DC 15 Strength check. Flying creatures are blown back 2d6 × 10 feet and take 2d6 points of nonlethal damage due to battering and buffeting, unless they succeed on a DC 25 Fly skill check.

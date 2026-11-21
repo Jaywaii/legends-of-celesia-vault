@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 5
+[[KM-R 4|← Previous: KM:R 4]] · [[KM-R 6|Next: KM:R 6 →]]
 
 **Evergreen Plains**
 **Moonday, Asmolan 14th, 108 6A**

@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 73
+[[KM-R 72|← Previous: KM:R 72]] · [[KM-R 74|Next: KM:R 74 →]]
 
 - One by one, the Evergreen company slew the members of the Moondancer court. Among them was the cloaked swordswoman, killed by a perfrct blow from Argus as the giant waded through the enemies. The combined blows from Argus and Davona finally slew the Dancing lady.
 - Upon the Dancing Lady's death, her mythic power was released, infusing into the Evergreen Company members that were present, including Tabrir and Tobias.

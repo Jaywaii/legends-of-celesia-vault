@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 19
+[[KM-R 18|← Previous: KM:R 18]] · [[KM-R 20|Next: KM:R 20 →]]
 
 - Sootscale is relieved for Tartuk's removal, partly for his threat to his tribe, but mostly for the fact that he is once more the sole authority of the tribe. He expresses thanks to the Evergreen Company, and he is mostly sincere. However, he is wary of their intent going forward. He rewards the PCs for what they had done for his tribe with Tartuk's possessions. If pushed, he grudgingly allows them to take from the tribes treasure as well (which Tartuk had in his lair).
 - Sootscale asks the PCs what do they intend to do next. Soostscale is willing to stop attacking tall folk and halflings (for now; the tribe's numbers are too depleted in any case). They will only fight in self-defense. Sootscale is willing to trade for what they need to survive instead of raiding, but has little to barter with. They could mine the silver, but they lack the tools. If the PCs can provide the tribe enough mining equipment (30 kobolds), they could mine the silver and that would extend the peace.

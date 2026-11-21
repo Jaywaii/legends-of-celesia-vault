@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 11
+[[KM-R 10|← Previous: KM:R 10]] · [[KM-R 12|Next: KM:R 12 →]]
 
 Armed bandits leaped out of their hiding amidst the foliage on the ground and the shacks built above in the tree branches. "You'll rue the day you crossed swords with Bekka's Blades!" shouted a half-orc woman, firing an arrow into Arina.
 

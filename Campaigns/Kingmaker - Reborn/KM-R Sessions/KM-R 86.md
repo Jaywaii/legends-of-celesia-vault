@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 86
+[[KM-R 85|← Previous: KM:R 85]] · [[KM-R 87|Next: KM:R 87 →]]
 
 ## Secrets
 

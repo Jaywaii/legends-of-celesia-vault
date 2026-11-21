@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 24
+[[KM-R 23|← Previous: KM:R 23]] · [[KM-R 25|Next: KM:R 25 →]]
 
 - Party rescued Havenford party from 6 perytons. Nearly all guards, Toma, and Johan were felled unconscious.
 - Toma tried to get close to Davona.

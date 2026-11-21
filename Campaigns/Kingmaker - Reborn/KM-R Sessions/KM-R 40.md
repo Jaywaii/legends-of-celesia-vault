@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 40
+[[KM-R 39|← Previous: KM:R 39]] · [[KM-R 41|Next: KM:R 41 →]]
 
 - In Promethea, the Evergreen Company busy themselves with using their fortune to craft magical items. Sky's expertise and Louis' mystical insight allow them to upgrade Cethin's wakizashi and Ayaki's great katana. They also craft several *sending stones* to share among their contacts such as Onestrio and Joram so they can communicate with them easily.
 - At the Argent Rose Society's Rochefort Lodge, Chapter-Sage Joliette Beauchamp meets with Occult Investigation Team 13, one of several teams of Argent Rose agents who specialize in the occult. This team was called in from the Sarkovia Lodge. The team had been adventuring for about five years already. Their members are:

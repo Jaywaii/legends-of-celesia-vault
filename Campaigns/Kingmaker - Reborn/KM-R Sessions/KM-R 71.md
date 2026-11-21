@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 71
+[[KM-R 70|← Previous: KM:R 70]] · [[KM-R 72|Next: KM:R 72 →]]
 
 - The Evergreen Company away team was ambushed by a patrol of fairies loyal to the Dancing Lady. However, the Company was able to kill them fairly easily.
 - Arina, Tobias, Tabrir, and Argus headed back to rendez-vous with the Ironwatch Moondancer Expedition.

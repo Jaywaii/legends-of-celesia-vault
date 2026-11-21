@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 69
+[[KM-R 68|← Previous: KM:R 68]] · [[KM-R 70|Next: KM:R 70 →]]
 
 - The Evergreen Company continue planning their assault on the Dancing Lady.
 - Sky, Davona, Tabrir, and Argus teleport to Rochefort. They purchase a scroll of commune from the temple of Tierra, and Tabrir uses it to commune with a power aligned with his philosophy. He comes into contact with an entity that inspires dread and finality, yet also comfort, which he suspects might be a deity of death (which is correct for it was Jeshakhet the goddess of death who answered him).

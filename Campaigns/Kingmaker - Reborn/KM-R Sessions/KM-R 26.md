@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 26
+[[KM-R 25|← Previous: KM:R 25]] · [[KM-R 27|Next: KM:R 27 →]]
 
 - Arina, Ayaki, Argus, and Davona killed a will'o'-wisp at Hushglow Tower after returning to the surface.
 - The Company hastily covered up the pit hole with stone debris. They made their way back to Onestrio's trade post.

@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 1
+[[KM-R 2|Next: KM:R 2 →]]
 
 ---
 

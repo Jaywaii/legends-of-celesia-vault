@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 46
+[[KM-R 45|← Previous: KM:R 45]] · [[KM-R 47|Next: KM:R 47 →]]
 
 - With two of his companions gibbering on the floor, and another one tied up mostly unconscious, Raggi reports their findings to the Evergreen Company. He asks the Company if they are able to heal his companion's minds, and Sky is able to break Igvald's cannibal curse, but Team 13 will need to go to Rochefort to restore Zen and Rex's mental afflictions.
 - They seek that aid at the cathedral of Tierra. The matriarch Jocelyne Labelle is surprised by the group of eclectic individuals. After the team explains their mission and how they became afflicted by these madnesses, the matriarch is happy to aid them. However, she cautions them to be more careful in the future; the afflictions upon Rex and Zen are just within her abilities to heal. Whiel she performs the rites of the Hearthmother, acolytes provide some warm refreshments to Raggi and Igvald that one would expect to get when visiting home. A feeling of warm belonging descends upon Zen and Rex. Both waken with clear minds, with Zen calling out for his family, and Rex suddenly accesses a long-buried data file in his memory that reminds him of how he felt when originally being part of the unity of the great intelligence. The team donates generously to the temple, with Zen giving a little extra.

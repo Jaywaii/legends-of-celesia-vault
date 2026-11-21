@@ -6,6 +6,7 @@ parent: "[[Kingmaker - Reborn]]"
 ---
 
 # KM:R 67
+[[KM-R 66|← Previous: KM:R 66]] · [[KM-R 68|Next: KM:R 68 →]]
 
 # Previously
 

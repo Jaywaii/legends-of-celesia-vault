@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 76
+[[KM-R 75|← Previous: KM:R 75]] · [[KM-R 77|Next: KM:R 77 →]]
 
 - After 10 days of being in a coma, Louis awakens. Upon seeing the first person in sight, his first words are a cryptic message, delivered in a monotone voice:
 	- *"A puppet of blood, dancing and breaking everything within reach."*

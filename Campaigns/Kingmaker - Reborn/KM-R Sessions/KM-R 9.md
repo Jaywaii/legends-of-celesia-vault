@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 9
+[[KM-R 8|← Previous: KM:R 8]] · [[KM-R 10|Next: KM:R 10 →]]
 
 When the away team returned to Onestrio's tradepost, they switched out party members. Arina and Cethin were itching to get back out exploring, and they left with Argus and Sky.
 

@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 12
+[[KM-R 11|← Previous: KM:R 11]] · [[KM-R 13|Next: KM:R 13 →]]
 
 After spending some time with Ayaki and some self-reflection, Cethin finally came to accept that he was her long lost brother. However, the result of this realization was that he came to resent the Nine-Tail Coven for taking him from his family. The revelation that he was nobility changed nothing of his whimsical nature, and the kitsune decided then and there to abandon his coven training and embrace the life he was meant to have.
 

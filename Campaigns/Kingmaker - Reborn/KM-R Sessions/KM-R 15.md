@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 15
+[[KM-R 14|← Previous: KM:R 14]] · [[KM-R 16|Next: KM:R 16 →]]
 
 Sky had to return to Onestrio's after receving a message from Davona, so it was the group of Arina, Cethin, and Argus that arrived at the Great Cypress tree. On the way there, they were attacked by a group of monstrous centipedes. Their travel was delayed from Argus being overcome by the paralytic poison of the giant instects.
 

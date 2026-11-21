@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 72
+[[KM-R 71|← Previous: KM:R 71]] · [[KM-R 73|Next: KM:R 73 →]]
 
 - Sky tried once again to stealthily approach the Dancing Lady's keep to mark the area to teleport the siege engine ammunition. This time, he made additional efforts to be stealthy, and successfully snuck between the enemy patrols to place his arcane mark on a stone.
 - Days later, the Ironwatch Moondancer Expedition arrived at the Dancing Lady's Keep without resistance. The Dancing Lady was ultimately confident in her superior fairy forces against the mundane soldiers, and allowed them to approach.

@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 34
+[[KM-R 33|← Previous: KM:R 33]] · [[KM-R 35|Next: KM:R 35 →]]
 
 ## Summary
 

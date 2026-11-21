@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 25
+[[KM-R 24|← Previous: KM:R 24]] · [[KM-R 26|Next: KM:R 26 →]]
 
 - Away team heads back to the Temple of the Elk to seek Joram's aid in healing Arina. On the way, Arina was mostly unconscious, her dreams plagued with nightmares and whispers in an alien tongue.
 - At the temple, Joram healed Arina's physical wounds, but would require a day to prayer by him and all the acolytes to exorcise the alien influence.

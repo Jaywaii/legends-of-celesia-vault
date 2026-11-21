@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 51
+[[KM-R 50|← Previous: KM:R 50]] · [[KM-R 52|Next: KM:R 52 →]]
 
 - Evergreen Company departs for Wolfshold, bringing along 1 aide for Argus, and 5 aides for Arina.
 - Sky plays gul bara with Erikos Pentras, magister of Domaine-du-loup, but uses the magical board taken from the Old Arborfane. After Erikos is harmed twice, Erikos examines the board, and is outrage by the deception. He goes to complain to Duloup.

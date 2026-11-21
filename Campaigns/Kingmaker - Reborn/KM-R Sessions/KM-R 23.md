@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 23
+[[KM-R 22|← Previous: KM:R 22]] · [[KM-R 24|Next: KM:R 24 →]]
 
 The away team, consisting of Arina, Argus, Cethin, and Sky, contact their home team with their *book of recall*. They needed to rendez-vous at the fangberry thicket so they could get an escort for Sky back to Onestrio's. Sky had suffered several head injuries, and his left arm was left dangling from the fight with the yeth hounds. He needed to go back to Rochefort for healing, but could not do so on his own in his addled state.
 

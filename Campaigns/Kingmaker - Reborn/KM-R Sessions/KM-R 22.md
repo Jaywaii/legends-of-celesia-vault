@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 22
+[[KM-R 21|← Previous: KM:R 21]] · [[KM-R 23|Next: KM:R 23 →]]
 
 - Prisoner morale is stable, but slightly disgruntled. A DC 20 Sense Motive check reveals that the prisoners haven't really reformed. They still have no respect for the law or honest life. Only the combination of the deadly skills of the PCs and their continued mercy keeps them in line. Vittoria tells the PCs that the prisoners responded well to Father Joram's sermons, and seemed to be coming around before he left to rebuild the temple. She says that the prisoners like and respect Ayaki, but suggests that the PCs get someone better trained in rehabilitating them, especially since Ayaki occasionally leaves.
 

@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 4
+[[KM-R 3|← Previous: KM:R 3]] · [[KM-R 5|Next: KM:R 5 →]]
 
 ***12 years ago***
 ***City of Foycomté***

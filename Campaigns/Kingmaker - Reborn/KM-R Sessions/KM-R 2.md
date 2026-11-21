@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 2
+[[KM-R 1|← Previous: KM:R 1]] · [[KM-R 3|Next: KM:R 3 →]]
 
 ***House of the Sun, Rochefort***
 ***Three months ago***

@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 74
+[[KM-R 73|← Previous: KM:R 73]] · [[KM-R 75|Next: KM:R 75 →]]
 
 - The Evergreen Company looted the keep and the bodies of the Moondancer court. Argus rushed back in and cut out the Dancing Lady's heart, tossing her head away.
 - Asako and Sky remained behind to repair the keep. Argus left a contingent of 50 troops to occupy the keep, with a supply of 9 BP.

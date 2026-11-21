@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 37
+[[KM-R 36|← Previous: KM:R 36]] · [[KM-R 38|Next: KM:R 38 →]]
 
 - After the battle with the green hussars, the Evergreen Company makes their way to the Old Beldame. Along the way, they encounter aggressive fairies, dire wolves, and other exotic forest creatures. They seem to be drawn to the Heart of the Forest carried by the Company. At the Old Beldame's hut, the Company confers with the Green Witch about the ritual, and what to expect entering the Old Arborfane. She warns them that the power of the Heart will draw the native inhabitants, and they must wary of them trying to seize it for their own. Thankfully, they are bound by ancient laws, and cannot be taken by force. However, they will impose tests on the Company, and those who fail forfeit the right to carry the Heart. The Old Beldame teaches the Company *The Oldwood Rite*, so that they may pass into the Old Arborfane without the forest being aggressive against them.
 - The Company has to enter on foot, leaving their vardo and mounts behind as the beasts are too frightened to enter the forest. Even loyal Thunderhoof refuses to listen to Ayaki's instructions. Ayaki had Thunderhoof round up the other horses and lead them back to the Old Beldame. After stepping into the forest, they perform the *Oldwood Rite*. Taught by the Old Beldame, Jupus casts *feed the forest* to appease the Old Arborfane.

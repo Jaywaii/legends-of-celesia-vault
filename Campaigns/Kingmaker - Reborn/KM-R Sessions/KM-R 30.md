@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 30
+[[KM-R 29|← Previous: KM:R 29]] · [[KM-R 31|Next: KM:R 31 →]]
 
 - After defeating the bandits harrassing the Old Beldame, Ayaki remained to continue talking affairs of the Evergreen with the witch. The rest of the party interrogated their bandit prisoners, gaining information on the layout of the Stag Lord's fort as well as some on the remaining Stag Lord lieutenants. Afterwards, they transported their prisoners back to Promethea, where Ayaki later rejoined them. They put in an order to Onestrio's Trade Post to acquire two *bookplates of recall.*
 - They also check in with the kobold refugees. They seemed mostly fine, though Vittoria did mention a few scuffles between kobolds and the settlers. Argus reassures them they will soon end the bandit threat and they will be able to return home soon.

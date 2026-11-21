@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 28
+[[KM-R 27|← Previous: KM:R 27]] · [[KM-R 29|Next: KM:R 29 →]]
 
 The Stag Lord had been battling and subduing monsters south of the Greenbelt River, then explored the southern region of the Old Arborfane, along with several elite bandits. He had left his 2nd in command, Acteon, in charge in his absence, along with lieutenants Dante and Toro. Acteon is stressed out. He never found any pleasure in banditry, doing it mostly as a means of lashing out against the world that rejected him. However, he had come to form a bond with his men after spending so much time training and leading them in the Stag Lord's stead. The Evergreen Company's successes against the Stag Bandits have demoralized him. His men were getting killed, Dante and Toro are gunning for his position, and the Stag Lord has been gone.
 

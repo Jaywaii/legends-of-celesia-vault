@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 53
+[[KM-R 52|← Previous: KM:R 52]] · [[KM-R 54|Next: KM:R 54 →]]
 
 - Arina, Argus, Cethin, and Sky descended into the structure beneath the lonely barrow. Argus triggered a trap in the central chamber, which released black misty tendrils touching Argus, Cethin, and Sky. Arina evaded. Cethin resisted some of the *ray of exhaustion* effects, but Argus and Sky felt the full effects.
 - Door behind them sealed, doors to the north and south opened. From each, a gravesludge emerged. Cethin went down first, and so did Argus, but not before smashing several pieces from one of the gravesludges. Arina stabbed many times and cursed them. Sky blew up on of the gravesludges with *shatterbone*, then burned the other one with *burning arc*.

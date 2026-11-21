@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 52
+[[KM-R 51|← Previous: KM:R 51]] · [[KM-R 53|Next: KM:R 53 →]]
 
 - Vincenzio's Carnevale arrives in Promethea, and the Evergreen Company goes to inspect it. They wind up participating in a few of the events. Sky wins the ring toss. Bekka has a lot of fun, but Félicité is unhappy with the distraction of miscreant carnies.
 - Rest of the party arrives and meets with Vincenzio to assess his intent. Satisfied that the carnival is legit, Sky buys orphans and beggars 1 gp worth of tickets.

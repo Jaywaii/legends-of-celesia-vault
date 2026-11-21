@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 75
+[[KM-R 74|← Previous: KM:R 74]] · [[KM-R 76|Next: KM:R 76 →]]
 
 - As the Ironwatch Moondancer Expedition force reaches Prateria's borders, many locals flock to the side of the road they travel upon. The locals look on with awe at the parade of victorious troops, cheering and offering their congratulations. Once the force enters Promethea proper, the whole settlement erupts in an improptu celebration, and music blares in the air. The street traveled by the force is lined with crowds who cheer and throw petals and flowers upon the victorious soldiers. The crowd are particularly enthusiastic and vocal at the appearance of the Evergreen Company at the head of the column.
 - At the center of town, Ayaki stands up on a makeshift pedestal to address a large group of citizens.

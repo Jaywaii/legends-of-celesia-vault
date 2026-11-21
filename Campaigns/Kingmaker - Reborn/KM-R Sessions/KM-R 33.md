@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 33
+[[KM-R 32|← Previous: KM:R 32]] · [[KM-R 34|Next: KM:R 34 →]]
 
 The rest of the Evergreen Company were dashing and leaping all over the fort to join up with Arina and Argus. Rishoi reached Arina and touched her, transfering her reiki to heal the badly wounded woman. Acid burns caused by the old man's *caustic blood* were slowly healed.
 

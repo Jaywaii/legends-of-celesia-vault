@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 32
+[[KM-R 31|← Previous: KM:R 31]] · [[KM-R 33|Next: KM:R 33 →]]
 
 Falgrim Sneeg yawned as he kept watch on the southwestern tower. He hated being on the night shift, but old stiff Acteon insisted that the fort be on guard at all times. Apparently, the Evergreen Company was going on the offensive, but Falgrim thought that would be suicidal, given the new power that the Stag Lord had acquired. The bandit was glad that his leader regularly drinks himself to sleep; he was a terror while awake.
 

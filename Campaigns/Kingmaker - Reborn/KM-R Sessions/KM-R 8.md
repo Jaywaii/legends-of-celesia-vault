@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 8
+[[KM-R 7|← Previous: KM:R 7]] · [[KM-R 9|Next: KM:R 9 →]]
 
 "I need a bed."
 

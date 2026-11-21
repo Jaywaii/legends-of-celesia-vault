@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 47
+[[KM-R 46|← Previous: KM:R 46]] · [[KM-R 48|Next: KM:R 48 →]]
 
 - Passing through the Gate of Whispers, Team 13 ventures forward through Ing-gol'zha. Time is warped for them, and the team loses track until they are suddenly overcome with exhaustion. Igvald falls unconscious, and the team halts to make camp in one of the random tunnels of the necropolis. Raggi is able to use Igvald's *wand of cure light wounds* to heal the inquisitor. Upon waking up, he helps heal his companions.
 - While the team is resting, they fail to notice a transluscent hand emerge from a nearby wall. It reaches out to clench Zen from the back of his neck. However, just as it makes to grab the half-elf, Zen notices something on the floor and bends down, and the hand grasp nothing but empty air. Everyone else now sees behind the bent over Zen a transluscent, half-decomposed urokhan is adventuring gear whose features are now twisted in rage and pain.

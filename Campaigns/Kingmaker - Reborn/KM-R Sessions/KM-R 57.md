@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 57
+[[KM-R 56|← Previous: KM:R 56]] · [[KM-R 58|Next: KM:R 58 →]]
 
 - Ayaki, Louis, and Cortez split off from the party to stop the Ice Carving Contest. Rishoi, Davona, Jupus, and Gnawfang went into the Ice Maze.
 - In the Ice Maze, the Evergreen Company disable the Watery Grave trap and Frozen Terror trap. They also destroyed the Jac-in-the-Box by having Davona momentum crash into it, which she also did with the frozen terror trap. The water grave was disabled by Gnawfang. They came to another clearing int he maze where there were a pair of violently killed corpses. Davona went to inspect them, but was then backstabbed by "the Ice Devil".  They fought back and inflicted damage on the dark ice satyr, but then Gradzaal came charging in, smashing through the ice walls and into Davona.

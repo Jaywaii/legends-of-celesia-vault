@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 20
+[[KM-R 19|← Previous: KM:R 19]] · [[KM-R 21|Next: KM:R 21 →]]
 
 - The **<u>Blood Jackals</u>** are one of Amonkhaten's deadliest agents. They serve the Ashaki God-King as hunters and assassins, sent to hunt down and eliminate his enemies.
 	- **[[Razeena]] (female kitai stalker 5):** Razeena the Bloodclaw is slender and leopard-like: a thin layer of golden fur with black spots. She is quiet and precise.

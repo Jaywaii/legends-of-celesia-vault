@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 55
+[[KM-R 54|← Previous: KM:R 54]] · [[KM-R 56|Next: KM:R 56 →]]
 
 - Ayaki, Davona, Jupus, Rishoi, along with Gnawfang and Cortez, visit the Carnival of Tears, learning of their new master, Namdrin Quinn. They learn that Vincenzio retired.
 - Rishoi confronts the Menagerie of Freaks, but finds no suspicious behaviour.

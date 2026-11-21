@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 29
+[[KM-R 28|← Previous: KM:R 28]] · [[KM-R 30|Next: KM:R 30 →]]
 
 - A group of bandits are outside of Old Beldame's hut, just outside the fenced yard around the hut. By the time the PCs come into sight, the bandit group's leader, is calling out to Old Beldame to submit to the Stag Lord's rule. Should she reveal the secrets of the Old Arborfane and use her magicks for his cause, she would be greatly rewarded. In response, Old Beldame's craggly voice shouted out from the inside of the hut that they better all bugger off, and screw their Stag Lord at the same time. That's when the pumpkin head scarecrow comes to life and stands threateningly in the frontyard between the bandits and the hut. Lira shouts back that if she will not submit, they she must be removed. The bandits see the Evergreen Company arrive, and Lira shouts at Beldame to pay attention, as the bandits will demonstrate what happens to those who defy the Stag Lord.
 	- The bandit leader is a woman name Lira Kal. She has 5 bandit swordsmen and 4 bandit archers.

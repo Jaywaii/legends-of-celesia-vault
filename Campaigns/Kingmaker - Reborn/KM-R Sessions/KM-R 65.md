@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 65
+[[KM-R 64|← Previous: KM:R 64]] · [[KM-R 66|Next: KM:R 66 →]]
 
 # Previously
 

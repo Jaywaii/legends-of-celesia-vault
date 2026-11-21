@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 50
+[[KM-R 49|← Previous: KM:R 49]] · [[KM-R 51|Next: KM:R 51 →]]
 
 - With the remains of Mick's team safely stored in their vardo, the away team returns to Promethea. A somber Bekka thanks them for retrieving them, and she will arrange for an appropriate plot of land to lay them to rest.
 - Jupus is able to identify the strange mushrooms as black rattlecap mushrooms. They have potent uses as ingredients in apothecarical concoctions and witch brews. The Company just so happen to know of a witch, and plan to bring them to her the next time they pass by her hut.

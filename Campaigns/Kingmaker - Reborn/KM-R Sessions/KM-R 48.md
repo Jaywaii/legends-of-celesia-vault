@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 48
+[[KM-R 47|← Previous: KM:R 47]] · [[KM-R 49|Next: KM:R 49 →]]
 
 ---
 

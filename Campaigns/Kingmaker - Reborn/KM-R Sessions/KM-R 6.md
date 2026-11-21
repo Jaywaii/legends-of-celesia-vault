@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 6
+[[KM-R 5|← Previous: KM:R 5]] · [[KM-R 7|Next: KM:R 7 →]]
 
 - At Onestrio's Trade Post, the three guards that the party hired had arrived. They will cost 5 sp per day per guard. Lorenzo and his guards will also require an additional 3 sp per day to help guard the prisoners in addition to their other duties. Total cost plus lodging for the extra guards (5 sp/day) comes out to 32 sp per day. Upon delivering the moon radishes, the party can use up to 250 gp of their credit fro Sabina's reward to pay for the guards (up to 78 days).
 	- Vittoria (female human warrior 1): Vittoria is a young woman with dark hair tied in a ponytail. She drives herself to excel in her work and acts very professionally. She enjoys relaxing with her fellow soldiers, but never gives into excesses. She has been in a few conflicts in the past.

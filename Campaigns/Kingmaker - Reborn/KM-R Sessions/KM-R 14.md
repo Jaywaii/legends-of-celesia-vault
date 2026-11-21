@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 14
+[[KM-R 13|← Previous: KM:R 13]] · [[KM-R 15|Next: KM:R 15 →]]
 
 The away team consisting of Argus, Ayaki, Cethin, and Rishoi returned to Onestrio's and met up with the rest of the Company. The team then spent the next several days focusing on their training and recovering from some severe wounds.
 

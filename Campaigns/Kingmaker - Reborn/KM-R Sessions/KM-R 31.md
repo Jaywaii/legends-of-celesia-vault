@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 31
+[[KM-R 30|← Previous: KM:R 30]] · [[KM-R 32|Next: KM:R 32 →]]
 
 - The Evergreen Company begins construction of a dump and an orphanage at their new settlement of Promethea. To help fund their new nation, the Company cashed in on all their credit they had with Onestrio and sold him all their construction they had built at his outpost.
 - Cethin, as Spymaster, began an investigation into the Steel Peacock company and its parent company, Montari Entreprises. The kitsune did not trust them. Through well placed bribes to some key officials, Cethin managed to gain a significant information. In addition to gaining key trade secrets that will benefit their economy, Cethin learned that Montari Entreprises was the ruling trade house of Valdargent, and that they are very ambitious and treacherous. Montari will use any means to gain an advantage in dealings, and if anyone slights them in any way, they would repay them tenfold. Its current leader is Enzio Montari, a man with a dangerous reputation.

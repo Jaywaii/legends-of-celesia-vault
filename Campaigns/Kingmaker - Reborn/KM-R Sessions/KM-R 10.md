@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 10
+[[KM-R 9|← Previous: KM:R 9]] · [[KM-R 11|Next: KM:R 11 →]]
 
 - Bekka (half-orc ranger 3) leads Bekka's Knives. Her band of outlaws was charged by the Stag Lord to guard the western border of the Evergreen Plains. She has a dozen rogues under her command. Bekka is a deadly, but pragmatic woman. She'll side with whoever is strongest.
 - One of Ravenna's bandits survived the attack. He accepts being prisoner, and will go along with it. But he tells them all that they're all dead. Stag Lord has claimed the Evergreen Plains as his own domain. He won't tolerate any rivals, he'll put the Company six feet under. One time, four bandit lords put aside their differences, and ambushed the Stag Lord when he was all alone.  Twenty men died that day, all by the Stag Lord's own hands, and he gained an army from the remains of those four bandit lords' band of rogues.

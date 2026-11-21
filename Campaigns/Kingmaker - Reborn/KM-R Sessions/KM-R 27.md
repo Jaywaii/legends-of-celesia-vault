@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 27
+[[KM-R 26|← Previous: KM:R 26]] · [[KM-R 28|Next: KM:R 28 →]]
 
 - **Necropolis of Ing-gol'zha**
 	- *You descend  down the long staircase along the vast cavern wall. The wall itself is decorated with elaborate but alien carved murals. They depict a mix of incomprehensible patterns that are confusing to look at, and images of recognizable body parts that were attached to each other in very not recognizable ways, and being used in some very disturbing ways.*

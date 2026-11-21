@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 54
+[[KM-R 53|← Previous: KM:R 53]] · [[KM-R 55|Next: KM:R 55 →]]
 
 - Arina, Cethin, Argus, and Cethin fight the Lonely Warlord and his Honour Guard. They defeat them thanks to Sky's *create pit* spell separating the group. The party loots the items and gold. They re-inter the remains, but determine that to ensure that the warlord does not rise again in anger of losing his gear, they need to *hallow* the site. Arina quickly departs to Rochefort to acquire a *scroll*.
 - The group also learns the warrior's name: Skylax of the Vrataii, a Storm Bear warlord that united the tribes to drive out the invaders from Tassimar, Lurindor, and Carpathos, and formed a Storm Bear kingdom in the Viridian Marches. So great was this king that his honor guard volunteered to be buried alive with him so to watch over their lord for the rest of time. They also learned, from scratches into the walls made well after the tomb's construction, was that Scylax's brother broke in to steal his sword. Scylax rose as an undead lord skeleton champion, tracked down his brother, and killed all who was with him, then returned to the tomb to remain ever watchful.

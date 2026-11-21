@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 98
+[[KM-R 97|← Previous: KM:R 97]] · [[KM-R 99|Next: KM:R 99 →]]
 
 # Previously
 

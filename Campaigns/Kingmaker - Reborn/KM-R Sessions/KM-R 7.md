@@ -5,6 +5,7 @@ category: "[[KM-R Sessions]]"
 ---
 
 # KM:R 7
+[[KM-R 6|← Previous: KM:R 6]] · [[KM-R 8|Next: KM:R 8 →]]
 
 In the Gnarlwood forest, the Evergreen Company set off a bear trap, then hurried back to the blind to see who would show up to investigate the sound.
 
