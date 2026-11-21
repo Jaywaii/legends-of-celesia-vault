@@ -2,6 +2,7 @@
 aliases:
   - KM:R 67
 category: "[[KM-R Sessions]]"
+date: "January 21st, 2018"
 parent: "[[Kingmaker - Reborn]]"
 ---
 

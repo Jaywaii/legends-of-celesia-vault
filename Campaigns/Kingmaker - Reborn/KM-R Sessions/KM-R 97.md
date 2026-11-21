@@ -2,6 +2,7 @@
 aliases:
   - "KM:R 97"
 category: "[[KM-R Sessions]]"
+date: "April 14th, 2019"
 ---
 
 # KM:R 97

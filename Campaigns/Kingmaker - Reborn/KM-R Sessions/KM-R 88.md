@@ -2,6 +2,7 @@
 aliases:
   - "KM:R 88"
 category: "[[KM-R Sessions]]"
+date: "January 13th, 2019"
 ---
 
 # KM:R 88
