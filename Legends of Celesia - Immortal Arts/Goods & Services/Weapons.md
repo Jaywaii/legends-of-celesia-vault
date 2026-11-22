@@ -266,19 +266,19 @@ Select your weapon's primary material. This is the material that your weapon dea
 
 ### Table: Weapon Material Values
 
-| Material | Weight per +1 bonus | Cost Modifier | Additional Properties |
-|---|---|---|---|
-| Adamantine | +5 lbs. | x100 gp cost | conductible 1, magnetic, deadly 2 |
-| Bone | +4 lbs. | x1/5 gp cost | amphibious, brittle 1 |
-| Bronze | +6 lbs. | x1/2 gp cost | conductible 1, meltable 1 |
-| Cold Iron | +6 lbs. | x25 gp cost | conductible 1, magnetic, mysticbane |
-| Coral | +5 lbs. | x10 gp cost | amphibious |
-| Iron | +6 lbs. | x1/4 gp cost | brittle 1, conductible 1, magnetic |
-| Leather | +2 lbs. | x1/3 gp cost | blunt 4 |
-| Mythrym | +1/10 lb. | x25 gp cost | conductible 1, magnetic |
-| Silver | +7 lbs. | x10 gp cost | meltable 1 |
-| Steel | +5 lbs. | — | conductible 1, magnetic |
-| Wood | +3 lbs. | x1/10 gp cost | flammable 1 |
+| Material   | Weight per +1 bonus | Cost Modifier | Additional Properties                           |
+| ---------- | ------------------- | ------------- | ----------------------------------------------- |
+| Adamantine | +5 lbs.             | x100 gp cost  | [[Conductible (Property)]] 1, [[magnetic]], [[deadly]] 2   |
+| Bone       | +4 lbs.             | x1/5 gp cost  | [[amphibious]], [[brittle]] 1                   |
+| Bronze     | +6 lbs.             | x1/2 gp cost  | [[Conductible (Property)]] 1, [[meltable]] 1               |
+| Cold Iron  | +6 lbs.             | x25 gp cost   | [[Conductible (Property)]] 1, [[magnetic]], [[mysticbane]] |
+| Coral      | +5 lbs.             | x10 gp cost   | [[amphibious]]                                  |
+| Iron       | +6 lbs.             | x1/4 gp cost  | [[brittle]] 1, [[Conductible (Property)]] 1, [[magnetic]]  |
+| Leather    | +2 lbs.             | x1/3 gp cost  | [[blunt]] 4                                     |
+| Mythrym    | +1/10 lb.           | x25 gp cost   | [[Conductible (Property)]] 1, [[magnetic]]                 |
+| Silver     | +7 lbs.             | x10 gp cost   | [[meltable]] 1                                  |
+| Steel      | +5 lbs.             | —             | [[Conductible (Property)]] 1, [[magnetic]]                 |
+| Wood       | +3 lbs.             | x1/10 gp cost | [[flammable]] 1                                 |
 
 **Amphibious:** This weapon can be wielded without the penalties for fighting in aquatic environments.
 
