@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 360.md",
+                "file": "Campaigns/Kingmaker - Reborn/NPCs/Amonkhaten II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KM-R 360"
+              "title": "Amonkhaten II"
             }
           },
           {
@@ -269,10 +269,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "58bb7e30235b34f5",
+  "active": "8ed606fe2f3e65eb",
   "lastOpenFiles": [
-    "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 361.md",
     "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 360.md",
+    "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 361.md",
     "Campaigns/Kingmaker - Reborn (GM)/Secrets/KM-R 361 - GM.md",
     "Campaigns/Kingmaker - Reborn (GM)/Secrets/KM-R 360 - GM.md",
     "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 359.md",
