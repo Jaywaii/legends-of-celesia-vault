@@ -1,6 +1,0 @@
----
-parent: "[[Equipment]]"
----
-
-# Damaging Objects
-
