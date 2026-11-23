@@ -50,6 +50,14 @@ Your weapon's damage is one of the following types: bludgeoning, piercing, or sl
 
 You can now modify your weapon's properties with build points (BP). The base cost of the weapon in gp is equal to the squared number of BP spent (a weapon of 0 BP costs 1 sp). The amount of BP you can spend on creating your own weapon is limited to how much gp you are willing to spend or how long you are willing to wait for it to be crafted.
 
+Unless otherwise stated, each customization can be taken multiple times, and their effects stack.
+
+### Standard Customizations (1 BP)
+#### Efficient
+You can reduce the weight of your weapon by 1 lb. Reducing a weapon that already weighs 1 lb. reduces it to 1/10 of a pound, and cannot be reduced any further.
+### Expert Customizations (2 BP)
+### Master Customizations (3 BP)
+
 **Attack Modifier:** You can increase your weapon's attack modifier by 1 for every 2 BP spent on this customization. Alternatively, you can decrease it by 1 to gain an additional BP to spend.
 
 **Critical Range:** You can increase your weapon's critical range by 1 for every 2 BP spent on this customization.
@@ -58,7 +66,7 @@ You can now modify your weapon's properties with build points (BP). The base cos
 
 **DV:** You can increase the weapon's DV by 1 for every 1 BP spent on this customization.
 
-**Weight:** You can reduce the weight of your weapon by 1 lb. for every 1 BP spent on this customization. Reducing a weapon that already weighs 1 lb. reduces it to 1/10 of a pound, and cannot be reduced any further.
+
 
 ### Traits
 
