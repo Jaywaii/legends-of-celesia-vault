@@ -190,6 +190,7 @@
       {
         "id": "0ba583a690813600",
         "type": "tabs",
+        "dimension": 62.86407766990292,
         "children": [
           {
             "id": "d5d98bba2ef9a0d7",
@@ -259,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manuscripts/Manuscript.md",
+                "file": "Legends of Celesia - Immortal Arts/Goods & Services/Weapons.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -267,7 +268,15 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "1ae1a1e2d8c285aa",
+        "type": "tabs",
+        "dimension": 37.13592233009709,
+        "children": [
           {
             "id": "e0f2553f7018bbad",
             "type": "leaf",
@@ -278,8 +287,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -297,7 +305,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "58bb7e30235b34f5",
+  "active": "8aeaf9d752370050",
   "lastOpenFiles": [
     "Legends of Celesia - Immortal Arts/Goods & Services/Armours.md",
     "Legends of Celesia - Immortal Arts/Goods & Services/Weapons.md",
