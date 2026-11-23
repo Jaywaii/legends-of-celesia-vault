@@ -57,6 +57,8 @@ Unless otherwise stated, each customization can be taken multiple times, and the
 Increase the weapon's DV by 1.
 #### Efficient
 You can reduce the weight of your weapon by 1 lb. Reducing a weapon that already weighs 1 lb. reduces it to 1/10 of a pound, and cannot be reduced any further.
+#### Specialized
+Select a damage type: bludgeoning, piercing, or slashing.
 ### Expert Customizations (2 BP)
 #### Powerful
 You can increase your weapon's attack modifier by 1
@@ -239,19 +241,19 @@ Select your weapon's primary material. This is the material that your weapon dea
 
 ### Table: Weapon Material Values
 
-| Material   | Weight per +1 bonus | Cost Modifier | Additional Properties                                                 |
-| ---------- | ------------------- | ------------- | --------------------------------------------------------------------- |
-| Adamantine | +5 lbs.             | x100 gp cost  | [[Conductible (Property)\|conductible]] 1, [[magnetic]], [[deadly]] 2 |
-| Bone       | +4 lbs.             | x1/5 gp cost  | [[amphibious]], [[brittle]] 1                                         |
-| Bronze     | +6 lbs.             | x1/2 gp cost  | [[Conductible (Property)]] 1, [[meltable]] 1                          |
-| Cold Iron  | +6 lbs.             | x25 gp cost   | [[Conductible (Property)]] 1, [[magnetic]], [[mysticbane]]            |
-| Coral      | +5 lbs.             | x10 gp cost   | [[amphibious]]                                                        |
-| Iron       | +6 lbs.             | x1/4 gp cost  | [[brittle]] 1, [[Conductible (Property)]] 1, [[magnetic]]             |
-| Leather    | +2 lbs.             | x1/3 gp cost  | [[blunt]] 4                                                           |
-| Mythrym    | +1/10 lb.           | x25 gp cost   | [[Conductible (Property)]] 1, [[magnetic]]                            |
-| Silver     | +7 lbs.             | x10 gp cost   | [[meltable]] 1                                                        |
-| Steel      | +5 lbs.             | —             | [[Conductible (Property)]] 1, [[magnetic]]                            |
-| Wood       | +3 lbs.             | x1/10 gp cost | [[flammable]] 1                                                       |
+| Material   | Cost Modifier | Additional Properties                                                 |
+| ---------- | ------------- | --------------------------------------------------------------------- |
+| Adamantine | x100 gp cost  | [[Conductible (Property)\|conductible]] 1, [[magnetic]], [[deadly]] 2 |
+| Bone       | x1/5 gp cost  | [[amphibious]], [[brittle]] 1                                         |
+| Bronze     | x1/2 gp cost  | [[Conductible (Property)]] 1, [[meltable]] 1                          |
+| Cold Iron  | x25 gp cost   | [[Conductible (Property)]] 1, [[magnetic]], [[mysticbane]]            |
+| Coral      | x10 gp cost   | [[amphibious]]                                                        |
+| Iron       | x1/4 gp cost  | [[brittle]] 1, [[Conductible (Property)]] 1, [[magnetic]]             |
+| Leather    | x1/3 gp cost  | [[blunt]] 4                                                           |
+| Mythrym    | x25 gp cost   | [[Conductible (Property)]] 1, [[magnetic]]                            |
+| Silver     | x10 gp cost   | [[meltable]] 1                                                        |
+| Steel      | —             | [[Conductible (Property)]] 1, [[magnetic]]                            |
+| Wood       | x1/10 gp cost | [[flammable]] 1                                                       |
 
 **Amphibious:** This weapon can be wielded without the penalties for fighting in aquatic environments.
 
