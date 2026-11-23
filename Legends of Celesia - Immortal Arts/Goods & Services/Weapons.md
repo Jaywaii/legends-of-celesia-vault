@@ -58,7 +58,7 @@ Increase the weapon's DV by 1.
 #### Efficient
 You can reduce the weight of your weapon by 1 lb. Reducing a weapon that already weighs 1 lb. reduces it to 1/10 of a pound, and cannot be reduced any further.
 #### Specialized
-Select a damage type: bludgeoning, piercing, or slashing.
+Select a damage type: bludgeoning, piercing, or slashing. Your weapon's attack modifier gains a +1 bonus when inflicting damage of this type.
 ### Expert Customizations (2 BP)
 #### Powerful
 You can increase your weapon's attack modifier by 1
@@ -125,21 +125,16 @@ This trait comes with a damage type. A weapon with this trait can be used to inf
 
 ### Drawbacks
 Drawbacks are detrimental customizations. Each drawback reduces your weapon's BP by 1 (to a minimum of 1 BP). Unless otherwise stated, you can add a drawback more than once and its effects stack.
-
-#### Attack Penalty
-Reduce the weapon's attack modifier by 1.
-
+#### Clumsy
+Select a damage type: bludgeoning, piercing, or slashing. You take a -1 penalty on your attack roll with your weapon when dealing this type of damage.
 #### Fragile
 Decrease the weapon's DV by 1.
-
 #### Heavy
 Increase the weapon's weight by 1 lb.
-
 #### Misfire
 **Prerequisites** Firearms group.
 
 The weapon misfires on a natural 1 of your attack roll. When this happens, your shot misses, and your weapon gains the broken condition. While broken, another misfire with the weapon causes it to explode and it is destroyed. When it explodes, make a Dexterity save against a DC of 10 + the weapon's total attack bonus. On failure, you receive one injury to one body part that was wielding the weapon.
-
 #### Reload Time
 **Prerequisites** This weapon consumes ammunition.
 
