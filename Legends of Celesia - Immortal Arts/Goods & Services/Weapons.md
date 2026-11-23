@@ -14,6 +14,8 @@ category: "[[Goods & Services]]"
 
 **DV:** Your weapon's DV is used when attacks target it with the sunder maneuver. Your weapon's starting DV depends on its handling.
 
+**Weight:** At +0 attack modifier, your weapon's weight is 1/10 lb. At +1 or higher, its weight starting weight before customizations is a number of lbs. equal to its attack modifier.
+
 # Customizing Your Weapon
 
 Weapons vary wildly across the world and throughout history. Their designs are heavily dependent on the resources available, the type of foes they are used against, and the level of knowledge.
