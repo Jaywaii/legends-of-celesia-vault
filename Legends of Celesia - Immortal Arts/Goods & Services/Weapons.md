@@ -66,25 +66,16 @@ You can add a trait to your weapon. Unless otherwise stated, you can only add a 
 #### Lethal
 You can increase your weapon's critical range by 1.
 
-
-
-
-
-
 ### Traits
-
 #### Attached
-
 A weapon with this trait cannot be disarmed.
 
 #### Brace
-
 **Prerequisites** melee.
 
 A weapon with this trait can be used to brace against a charge as a reaction. The wielder can make a free attack with her weapon against the first creature that charges at her once they become within her reach.
 
 #### Capacity
-
 **Prerequisites** ranged.
 
 Increase the amount of ammunition the weapon can fire before needing to be reloaded by 1.
@@ -92,96 +83,65 @@ Increase the amount of ammunition the weapon can fire before needing to be reloa
 **Special** You can take this trait multiple times. Its effects stack.
 
 #### Cleave
-
 **Prerequisies** melee.
 
 Cleave attacks made with a weapon with this trait gain +1 edge.
 
 #### Close
-
 A weapon with this trait can be used while grappled.
 
 #### Concealable
-
 You gain a +1 edge to Sleight of Hand checks to conceal this weapon on your body.
 
 #### Disarm
-
 Disarm attacks made with a weapon with this trait gains +1 edge.
 
 #### Defensive
-
 A weapon with this trait reduces the severity of injuries received by 1 step when wielded while fighting defensively or using the total defense action. Minor injuries are negated.
 
 #### Grapple
-
 Grapple attacks made with a weapon with this trait gains +1 edge.
 
 #### Reach
-
 **Prerequisies** melee.
 
 Your reach for attacks made with a weapon with this trait increases by 1 size step.
 
 #### Thrown
-
 **Prerequisies** melee.
 
 A melee weapon with this trait can be thrown as a ranged attack. Its range increment is equal to 10 feet plus 10 feet per Strength bonus (for a minimum of 10 feet).
 
 #### Trip
-
 Trip attacks made with a weapon with this trait gains +1 edge.
 
 #### Two-Handed
-
 A weapon with this trait is designed to be wielded with either one or two hands. When wielded with two hands, the weapon's attack bonus is increased by +1.
 
 #### Versatile
-
 This trait comes with a damage type. A weapon with this trait can be used to inflict that damage type. You choose which damage type to apply each time you attack.
 
 ### Drawbacks
-
-**Drawbacks:** Drawbacks are detrimental customizations. Each drawback reduces your weapon's BP by 1 (to a minimum of 0 BP). Unless otherwise stated, you cannot add a drawback more than once.
+Drawbacks are detrimental customizations. Each drawback reduces your weapon's BP by 1 (to a minimum of 1 BP). Unless otherwise stated, you can add a drawback more than once and its effects stack.
 
 #### Attack Penalty
-
 Reduce the weapon's attack modifier by 1.
 
-**Special**This drawback can be taken multiple times. Its effects stack. The weapon's attack modifier can go below +0.
-
 #### Fragile
-
 Decrease the weapon's DV by 1.
 
-**Special** This drawback can be taken multiple times. Its effects stack. The weapon's DV can go below 0.
-
 #### Heavy
-
 Increase the weapon's weight by 1 lb.
 
-**Special** This drawback can be taken multiple times. Its effects stack.
-
 #### Misfire
-
 **Prerequisites** Firearms group.
 
 The weapon misfires on a natural 1 of your attack roll. When this happens, your shot misses, and your weapon gains the broken condition. While broken, another misfire with the weapon causes it to explode and it is destroyed. When it explodes, make a Dexterity save against a DC of 10 + the weapon's total attack bonus. On failure, you receive one injury to one body part that was wielding the weapon.
 
-**Special** This drawback can be taken multiple times. Each time increases the misfire range by 1.
-
 #### Reload Time
-
 **Prerequisites** This weapon consumes ammunition.
 
 The time to reload this weapon is increased by 1 beat.
-
-**Special** This drawback can be taken multiple times. Its effects stack.
-
-#### Two-Handed
-
-This weapon requires two hands to be used, even if it would be considered to be a one-handed or light weapon.
 
 ## 5) Weapon Group
 
