@@ -61,7 +61,7 @@ You can reduce the weight of your weapon by 1 lb. Reducing a weapon that already
 Select a damage type: bludgeoning, piercing, or slashing. Your weapon's attack modifier gains a +1 bonus when inflicting damage of this type.
 ### Expert Customizations (2 BP)
 #### Powerful
-You can increase your weapon's attack modifier by 1
+Increase your weapon's attack modifier by 1 and its weight by 1 lb.
 #### Traits
 You can add a trait to your weapon. Unless otherwise stated, you can only add a trait once. Some traits may have prerequisites to meet to buy them. You only gain the benefits of a weapon's traits when you wield it.
 ### Master Customizations (3 BP)
@@ -232,23 +232,23 @@ A bow uses a string that is pulled back to launch a projectile.
 
 ## 6) Material
 
-Select your weapon's primary material. This is the material that your weapon deals damage with. Each material type affects your weapon's weight, cost, and may add special properties.
+Select your weapon's primary material. This is the material that your weapon deals damage with. Each material type affects your weapon's weight, cost, and may add material properties.
 
 ### Table: Weapon Material Values
 
-| Material   | Cost Modifier | Additional Properties                                                 |
-| ---------- | ------------- | --------------------------------------------------------------------- |
-| Adamantine | x100 gp cost  | [[Conductible (Property)\|conductible]] 1, [[magnetic]], [[deadly]] 2 |
-| Bone       | x1/5 gp cost  | [[amphibious]], [[brittle]] 1                                         |
-| Bronze     | x1/2 gp cost  | [[Conductible (Property)]] 1, [[meltable]] 1                          |
-| Cold Iron  | x25 gp cost   | [[Conductible (Property)]] 1, [[magnetic]], [[mysticbane]]            |
-| Coral      | x10 gp cost   | [[amphibious]]                                                        |
-| Iron       | x1/4 gp cost  | [[brittle]] 1, [[Conductible (Property)]] 1, [[magnetic]]             |
-| Leather    | x1/3 gp cost  | [[blunt]] 4                                                           |
-| Mythrym    | x25 gp cost   | [[Conductible (Property)]] 1, [[magnetic]]                            |
-| Silver     | x10 gp cost   | [[meltable]] 1                                                        |
-| Steel      | —             | [[Conductible (Property)]] 1, [[magnetic]]                            |
-| Wood       | x1/10 gp cost | [[flammable]] 1                                                       |
+| Material   | Cost Modifier | Customizations | Material Properties                                                   |
+| ---------- | ------------- | -------------- | --------------------------------------------------------------------- |
+| Adamantine | x100 gp cost  |                | [[Conductible (Property)\|conductible]] 1, [[magnetic]], [[deadly]] 2 |
+| Bone       | x1/5 gp cost  |                | [[amphibious]], [[brittle]] 1                                         |
+| Bronze     | x1/2 gp cost  |                | [[Conductible (Property)]] 1, [[meltable]] 1                          |
+| Cold Iron  | x25 gp cost   |                | [[Conductible (Property)]] 1, [[magnetic]], [[mysticbane]]            |
+| Coral      | x10 gp cost   |                | [[amphibious]]                                                        |
+| Iron       | x1/4 gp cost  |                | [[brittle]] 1, [[Conductible (Property)]] 1, [[magnetic]]             |
+| Leather    | x1/3 gp cost  |                | [[blunt]] 4                                                           |
+| Mythrym    | x25 gp cost   |                | [[Conductible (Property)]] 1, [[magnetic]]                            |
+| Silver     | x10 gp cost   |                | [[meltable]] 1                                                        |
+| Steel      | —             |                | [[Conductible (Property)]] 1, [[magnetic]]                            |
+| Wood       | x1/10 gp cost |                | [[flammable]] 1                                                       |
 
 **Amphibious:** This weapon can be wielded without the penalties for fighting in aquatic environments.
 
