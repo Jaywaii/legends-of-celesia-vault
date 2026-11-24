@@ -36,11 +36,11 @@ Choose the weapon's type: melee, ranged, thrown.
 
 Weapons are divided into 3 types of handling: light, one-handed, and two-handed. Each type of handling provides your weapon's base statistics.
 
-**Light Weapons** can be wielded with only one hand, and are designed to be light and nimble, and have a base weight of 1 lb. Wielding a light weapon with two hands provides no additional benefit. Light weapons do not have any circumstance bonus to their attack modifier, but also reduce the number of hindrances from iterative attacks by 1. Light weapons have a starting attack modifier of +0 and a DV of 15.
+**Light Weapons** can be wielded with only one hand, and are designed to be light and nimble. Wielding a light weapon with two hands provides no additional benefit. Light weapons do not have any circumstance bonus to their attack modifier, but also reduce the number of hindrances from iterative attacks by 1. Light weapons have a starting attack modifier of +0 and a DV of 15.
 
-**One-Handed Weapons** have a starting attack modifier of +1 and a DV of 10, and have a base weight of 4 lbs. They are meant to be wielded with only one hand, but can also be wielded with two hands to increase its circumstance bonus to its attack bonus to +2.
+**One-Handed Weapons** have a starting attack modifier of +1 and a DV of 10. They are meant to be wielded with only one hand, but can also be wielded with two hands to to gain a +1 circumstance bonus on attack rolls.
 
-**Two-Handed Weapons** require you to wielded them with two hands, and have a base weight of 10 lbs. Two-handed weapons have starting attack modifier of +3 and a DV of 5. You can still try to attack with a two-handed weapon while wielding it with one hand, but it is treated as an improvised weapon, and it loses its circumstance bonus to its attack modifier and you incur +1 hindrance on your attack roll.
+**Two-Handed Weapons** require you to wielded them with two hands. Two-handed weapons have starting attack modifier of +3 and a DV of 5. You can still try to attack with a two-handed weapon while wielding it with one hand, but it is treated as an improvised weapon, and it loses its circumstance bonus to its attack modifier and you incur +1 hindrance on your attack roll.
 
 ## 3) Choose Your Weapon's Damage Type
 
