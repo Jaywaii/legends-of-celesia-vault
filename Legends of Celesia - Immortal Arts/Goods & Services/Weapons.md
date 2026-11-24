@@ -229,12 +229,13 @@ A bow uses a string that is pulled back to launch a projectile.
 ## 6) Material
 
 Select your weapon's primary material. This is the material that your weapon deals damage with. Each material type affects your weapon's weight, cost, and may add material properties.
-
+### Adamantine
+The weapon's weight increases by 1 lb. every +10 attack modifier instead of every +1.
 ### Table: Weapon Material Values
 
 | Material   | Cost Modifier | Customizations | Material Properties                                        |
 | ---------- | ------------- | -------------- | ---------------------------------------------------------- |
-| Adamantine | x100 gp cost  | Increases      | [[Conductible (Property)\|conductible]] 1, [[magnetic]]    |
+| Adamantine | x100 gp cost  |                | [[Conductible (Property)\|conductible]] 1, [[magnetic]]    |
 | Bone       | x1/5 gp cost  |                | [[amphibious]], [[brittle]] 1                              |
 | Bronze     | x1/2 gp cost  |                | [[Conductible (Property)]] 1, [[meltable]] 1               |
 | Cold Iron  | x25 gp cost   |                | [[Conductible (Property)]] 1, [[magnetic]], [[mysticbane]] |
