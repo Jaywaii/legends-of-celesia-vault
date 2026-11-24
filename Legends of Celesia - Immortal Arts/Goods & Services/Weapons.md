@@ -44,7 +44,7 @@ Weapons are divided into 3 types of handling: light, one-handed, and two-handed.
 
 ## 3) Choose Your Weapon's Damage Type
 
-Your weapon's damage is one of the following types: bludgeoning, piercing, or slashing. Certain creatures may have defenses or vulnerabilities against specific damage types. Ranged weapons do not have a damage type (aside from its improvised use); instead, you determine its projectile's damage type. Ranged weapon can fire projectiles with different types as long as the projectile is designed for it.
+Your weapon's damage is one of the following types: bludgeoning, piercing, or slashing. Certain creatures may have defenses or vulnerabilities against specific damage types. Ranged weapons that use ammunition do not have a damage type (aside from its improvised use); instead, you determine its ammunition's damage type. Ranged weapon can use ammunition with different damage types as long as it is designed for the weapon.
 
 ## 4) Customize Your Weapon
 
@@ -57,8 +57,6 @@ Unless otherwise stated, each customization can be taken multiple times, and the
 Increase the weapon's DV by 1.
 #### Efficient
 You can reduce the weight of your weapon by 1 lb. Reducing a weapon that already weighs 1 lb. reduces it to 1/10 of a pound, and cannot be reduced any further.
-#### Specialized
-Select a damage type: bludgeoning, piercing, or slashing. Your weapon's attack modifier gains a +1 bonus when inflicting damage of this type.
 ### Expert Customizations (2 BP)
 #### Powerful
 Increase your weapon's attack modifier by 1 and its weight by 1 lb.
