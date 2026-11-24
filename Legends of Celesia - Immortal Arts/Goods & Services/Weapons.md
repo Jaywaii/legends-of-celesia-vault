@@ -123,8 +123,6 @@ This trait comes with a damage type. A weapon with this trait can be used to inf
 
 ### Drawbacks
 Drawbacks are detrimental customizations. Each drawback reduces your weapon's BP by 1 (to a minimum of 1 BP). Unless otherwise stated, you can add a drawback more than once and its effects stack.
-#### Clumsy
-Select a damage type: bludgeoning, piercing, or slashing. You take a -1 penalty on your attack roll with your weapon when dealing this type of damage.
 #### Fragile
 Decrease the weapon's DV by 1.
 #### Heavy
