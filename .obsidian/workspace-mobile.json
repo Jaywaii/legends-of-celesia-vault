@@ -47,12 +47,12 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "weapons",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
-            "sortOrder": "alphabetical"
+            "sortOrder": "byRelevance"
           },
           "icon": "lucide-search",
           "title": "Search"
@@ -101,7 +101,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "da580ecfdec708fc",
@@ -168,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dfee94237e540f0",
+  "active": "d231bf053ff3c26a",
   "lastOpenFiles": [
     "Lore/The Infernal Magnates.md",
     "Lore/The Empyreal Curators.md",
