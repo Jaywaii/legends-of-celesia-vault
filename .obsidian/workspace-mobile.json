@@ -11,10 +11,14 @@
             "id": "5670e98f41140955",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Legends of Celesia - Immortal Arts/Goods & Services/Weapons.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Weapons"
             }
           }
         ]
@@ -168,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d231bf053ff3c26a",
+  "active": "5670e98f41140955",
   "lastOpenFiles": [
     "Lore/The Infernal Magnates.md",
     "Lore/The Empyreal Curators.md",
