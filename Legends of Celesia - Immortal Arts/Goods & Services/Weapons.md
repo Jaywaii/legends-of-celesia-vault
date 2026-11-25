@@ -233,19 +233,19 @@ Select your weapon's primary material. This is the material that your weapon dea
 The weapon's weight increases by 1 lb. every +10 attack modifier instead of every +1.
 ### Table: Weapon Material Values
 
-| Material   | Cost Modifier | Customizations | Material Properties                                        |
-| ---------- | ------------- | -------------- | ---------------------------------------------------------- |
-| Adamantine | x100 gp cost  |                | [[Conductible (Property)\|conductible]] 1, [[magnetic]]    |
-| Bone       | x1/5 gp cost  |                | [[amphibious]], [[brittle]] 1                              |
-| Bronze     | x1/2 gp cost  |                | [[Conductible (Property)]] 1, [[meltable]] 1               |
-| Cold Iron  | x25 gp cost   |                | [[Conductible (Property)]] 1, [[magnetic]], [[mysticbane]] |
-| Coral      | x10 gp cost   |                | [[amphibious]]                                             |
-| Iron       | x1/4 gp cost  |                | [[brittle]] 1, [[Conductible (Property)]] 1, [[magnetic]]  |
-| Leather    | x1/3 gp cost  |                | [[blunt]] 4                                                |
-| Mythrym    | x25 gp cost   |                | [[Conductible (Property)]] 1, [[magnetic]]                 |
-| Silver     | x10 gp cost   |                | [[meltable]] 1                                             |
-| Steel      | —             |                | [[Conductible (Property)]] 1, [[magnetic]]                 |
-| Wood       | x1/10 gp cost |                | [[flammable]] 1                                            |
+| Material   | Cost Modifier                 | Customizations                                                                                                 | Material Properties                                        |
+| ---------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Adamantine | +30 BP per +1 attack modifier | Weight increases by 1 lb. for every +10 attack modifier instead of every +1. Your weapon's DV increases by 10. | [[Conductible (Property)\|conductible]] 1, [[magnetic]]    |
+| Bone       | x1/5 gp cost                  |                                                                                                                | [[amphibious]], [[brittle]] 1                              |
+| Bronze     | x1/2 gp cost                  |                                                                                                                | [[Conductible (Property)]] 1, [[meltable]] 1               |
+| Cold Iron  | x25 gp cost                   |                                                                                                                | [[Conductible (Property)]] 1, [[magnetic]], [[mysticbane]] |
+| Coral      | x10 gp cost                   |                                                                                                                | [[amphibious]]                                             |
+| Iron       | x1/4 gp cost                  |                                                                                                                | [[brittle]] 1, [[Conductible (Property)]] 1, [[magnetic]]  |
+| Leather    | x1/3 gp cost                  |                                                                                                                | [[blunt]] 4                                                |
+| Mythrym    | x25 gp cost                   |                                                                                                                | [[Conductible (Property)]] 1, [[magnetic]]                 |
+| Silver     | x10 gp cost                   |                                                                                                                | [[meltable]] 1                                             |
+| Steel      | —                             |                                                                                                                | [[Conductible (Property)]] 1, [[magnetic]]                 |
+| Wood       | x1/10 gp cost                 |                                                                                                                | [[flammable]] 1                                            |
 
 **Amphibious:** This weapon can be wielded without the penalties for fighting in aquatic environments.
 
