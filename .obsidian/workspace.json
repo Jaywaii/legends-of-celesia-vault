@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Legends of Celesia - Immortal Arts/Goods & Services/Armours.md",
+                "file": "Legends of Celesia - Immortal Arts/Goods & Services/Materials/Steel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armours"
+              "title": "Steel"
             }
           },
           {
@@ -119,7 +119,8 @@
               "title": "Elyssria"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mavericks/Characters/Sinnara Lysenthiir.md",
+                "file": "Legends of Celesia - Immortal Arts/Goods & Services/Materials/Steel.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -305,15 +306,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "58bb7e30235b34f5",
+  "active": "4dfc623033c82ec2",
   "lastOpenFiles": [
+    "Legends of Celesia - Immortal Arts/Goods & Services/Armours.md",
+    "Legends of Celesia - Immortal Arts/Goods & Services/Materials/Steel.md",
+    "Mavericks/Characters/Sinnara Lysenthiir.md",
     "Maps/Viridian Marches.md",
     "Maps/Map of Celesia.md",
     "Manuscripts/Manuscript.md",
     "Manuscripts/Kingmaker - Reborn (Manuscript).md",
     "Legends of Celesia - Immortal Arts/Goods & Services/Weapons.md",
     "Legends of Celesia - Immortal Arts/Goods & Services/Materials/Properties/Conductible (Property).md",
-    "Legends of Celesia - Immortal Arts/Goods & Services/Armours.md",
     "Legends of Celesia - Immortal Arts/Goods & Services/Materials/Properties",
     "Legends of Celesia - Immortal Arts/Goods & Services/Materials",
     "Campaigns/Kingmaker - Reborn/NPCs/Amonkhaten II.md",
@@ -333,8 +336,6 @@
     "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 75.md",
     "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 36.md",
     "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 176.md",
-    "Campaigns/Kingmaker - Reborn (GM)/Secrets/KM-R 339 - GM.md",
-    "Campaigns/Kingmaker - Reborn/KM-R Sessions/KM-R 3.md",
     "Mavericks/sede7YrsH",
     "Mavericks/Characters/sedAXPBml",
     "Mavericks/seddw8bfS",
