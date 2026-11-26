@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Legends of Celesia - Immortal Arts/Goods & Services/Materials/Steel.md",
+                "file": "Legends of Celesia - Immortal Arts/Goods & Services/Armours.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -334,12 +334,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "4dfc623033c82ec2",
+  "active": "65fb260ffbbe70dc",
   "lastOpenFiles": [
+    "Legends of Celesia - Immortal Arts/Goods & Services/Materials/Steel.md",
     "Legends of Celesia - Immortal Arts/Goods & Services/Armours.md",
     "Legends of Celesia - Immortal Arts/Goods & Services/Materials/Properties/Conductible (Property).md",
     "Legends of Celesia - Immortal Arts/Goods & Services/Weapons.md",
-    "Legends of Celesia - Immortal Arts/Goods & Services/Materials/Steel.md",
     "Mavericks/Characters/Sinnara Lysenthiir.md",
     "Maps/Viridian Marches.md",
     "Maps/Map of Celesia.md",

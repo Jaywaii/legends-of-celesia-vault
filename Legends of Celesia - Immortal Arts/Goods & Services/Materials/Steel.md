@@ -1,8 +1,10 @@
 # Properties
 [[Conductible (Property)|conductible]] 1
-[[Magnetic]]
+[[Magnetic|magnetic]]
 
 # Armours
+5 lbs per +1 armor bonus
+
 
 # Shields
 
