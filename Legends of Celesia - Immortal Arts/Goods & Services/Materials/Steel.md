@@ -3,7 +3,7 @@
 [[Magnetic|magnetic]]
 
 # Armours
-5 lbs per +1 armor bonus
+5 lbs. per +1 armor bonus
 
 
 # Shields
