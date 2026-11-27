@@ -32,7 +32,7 @@ Select the primary material that makes up your armour. Each material type affect
 | Bone       | +12 lbs.            | x2/5 gp cost      | amphibious, brittle 1                  |
 | Bronze     | +10 lbs.            | x3/4 gp cost      | meltable 1                             |
 | Cloth      | +6 lbs.             | x1/4 gp cost      | flammable 2                            |
-| Cold Iron  |                     |                   | conductible 1, magnetic, mysticbane    |
+| Cold Iron  | +15 lbs.            |                   | conductible 1, magnetic, mysticbane    |
 | Coral      | +15 lbs.            | x1/5 gp cost      | amphibious, brittle 2                  |
 | Iron       | +15 lbs.            | x1/2 gp cost      | conductible 1, magnetic                |
 | Leather    | +7 lbs.             | x1/2 gp cost      | —                                      |
