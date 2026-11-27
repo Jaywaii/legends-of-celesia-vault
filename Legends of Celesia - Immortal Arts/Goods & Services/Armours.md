@@ -26,18 +26,19 @@ You can design your armour by spending build points (BP) on it. There is no limi
 
 Select the primary material that makes up your armour. Each material type affects your armour's weight and BP cost, and may add special properties.
 
-| Material | Weight per +1 bonus | Cost Modification | Additional Properties |
-|---|---|---|---|
-| Steel | +5 lbs. | — | conductible 1, magnetic |
-| Leather | +7 lbs. | x1/2 gp cost | — |
-| Cloth | +6 lbs. | x1/4 gp cost | flammable 2 |
-| Wood | +11 lbs. | x1/4 gp cost | flammable 1 |
-| Adamantine | +1 lb. | x100 gp cost | conductible 1, indomitable 2, magnetic |
-| Mythrym | +1/2 lb. | x25 gp cost | conductible 1, flexible, magnetic |
-| Coral | +15 lbs. | x1/5 gp cost | amphibious, brittle 2 |
-| Bone | +12 lbs. | x2/5 gp cost | amphibious, brittle 1 |
-| Bronze | +10 lbs. | x3/4 gp cost | meltable 1 |
-| Iron | +15 lbs. | x1/2 gp cost | conductible 1, magnetic |
+| Material   | Weight per +1 bonus | Cost Modification | Additional Properties                  |
+| ---------- | ------------------- | ----------------- | -------------------------------------- |
+| Adamantine | +1 lb.              | x100 gp cost      | conductible 1, indomitable 2, magnetic |
+| Bone       | +12 lbs.            | x2/5 gp cost      | amphibious, brittle 1                  |
+| Bronze     | +10 lbs.            | x3/4 gp cost      | meltable 1                             |
+| Cloth      | +6 lbs.             | x1/4 gp cost      | flammable 2                            |
+| Cold Iron  |                     |                   | conductible 1, magnetic, mysticbane    |
+| Coral      | +15 lbs.            | x1/5 gp cost      | amphibious, brittle 2                  |
+| Iron       | +15 lbs.            | x1/2 gp cost      | conductible 1, magnetic                |
+| Leather    | +7 lbs.             | x1/2 gp cost      | —                                      |
+| Mythrym    | +1/2 lb.            | x25 gp cost       | conductible 1, flexible, magnetic      |
+| Steel      | +5 lbs.             | —                 | conductible 1, magnetic                |
+| Wood       | +11 lbs.            | x1/4 gp cost      | flammable 1                            |
 
 ### Material Properties
 

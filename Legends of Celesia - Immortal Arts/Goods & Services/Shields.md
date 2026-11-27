@@ -76,19 +76,19 @@ This shield's **base cost** is equal to 1 gp times the squared amount of BP spen
 
 Select the type of material your shield is made of. Each material type affects your shield's weight and cost, and may add special properties.
 
-| Material | Weight per +1 shield bonus | Cost Modification | Special Properties |  |
-|---|---|---|---|---|
-| Adamantine | +5 lb. | x100 gp cost | conductible 1, indomitable 2, magnetic |  |
-| Bone | +10 lb. | gp | — | amphibious, brittle 1 |
-| Bronze | +6 lb. | gp | conductible 1, meltable 1 |  |
-| Cloth | +12 lb. | gp | flammable 2 |  |
-| Cold Iron | +5 lb. | x25 gp cost | conductible 1, mysticbane, magnetic |  |
-| Coral | +15 lb. | gp | amphibious, brittle 2 |  |
-| Iron | +15 lb. | gp | brittle 1, conductible 1, magnetic |  |
-| Leather | +10 lb. | gp | — |  |
-| Mythrym | +1/10 lb. | x 25 gp cost | conductible 1, magnetic |  |
-| Steel | +5 lb. | gp | conductible 1, magnetic |  |
-| Wood | +7 lb. | gp | flammable 1 |  |
+| Material   | Weight per +1 shield bonus | Cost Modification | Additional Properties                  |
+| ---------- | -------------------------- | ----------------- | -------------------------------------- |
+| Adamantine | +5 lb.                     | x100 gp cost      | conductible 1, indomitable 2, magnetic |
+| Bone       | +10 lb.                    | gp                | amphibious, brittle 1                  |
+| Bronze     | +6 lb.                     | gp                | conductible 1, meltable 1              |
+| Cloth      | +12 lb.                    | gp                | flammable 2                            |
+| Cold Iron  | +5 lb.                     | x25 gp cost       | conductible 1, mysticbane, magnetic    |
+| Coral      | +15 lb.                    | gp                | amphibious, brittle 2                  |
+| Iron       | +15 lb.                    | gp                | brittle 1, conductible 1, magnetic     |
+| Leather    | +10 lb.                    | gp                | —                                      |
+| Mythrym    | +1/10 lb.                  | x 25 gp cost      | conductible 1, magnetic                |
+| Steel      | +5 lb.                     | gp                | conductible 1, magnetic                |
+| Wood       | +7 lb.                     | gp                | flammable 1                            |
 
 **Amphibious:** This shield inflicts no additional penalties when wielded in aquatic environments.
 
